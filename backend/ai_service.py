@@ -39,22 +39,37 @@ def get_openai_client():
 def generate_question_from_text(full_text):
     client = get_openai_client()
     
-    # Take a random chunk of text to base the question on
-    if len(full_text) > 2000:
-        start = random.randint(0, len(full_text) - 2000)
-        context = full_text[start:start+2000]
+    # Parse the text into pages to ensure 100% accurate citation
+    import re
+    # Split by [PAGE number] markers. odd indices will be numbers, even indices will be text
+    parts = re.split(r'\[PAGE (\d+)\]', full_text)
+    
+    # parts[0] is usually empty or pre-amble.
+    # parts[1] is page number, parts[2] is text, parts[3] is page number, parts[4] is text...
+    
+    pages = []
+    for i in range(1, len(parts), 2):
+        page_num = int(parts[i])
+        page_text = parts[i+1].strip()
+        if len(page_text) > 100: # Only consider pages with substantial text
+            pages.append((page_num, page_text))
+            
+    if not pages:
+        # Fallback if parsing fails (e.g. old uploaded book without markers)
+        context = full_text[:2000]
+        selected_page_num = 1
     else:
-        context = full_text
+        # Pick a random page
+        selected_page_num, context = random.choice(pages)
 
     if client:
         try:
             prompt = (
-                "Based on the following text (which contains [PAGE X] markers), generate a multiple-choice question.\n"
-                "You MUST identify the specific page number(s) where the answer is found from the markers.\n"
+                f"Based on the following text from Page {selected_page_num}, generate a multiple-choice question.\n"
+                "IMPORTANT: Detect the language of the text. Generate the question, options, and answer content in that SAME language.\n"
                 "Return valid JSON with format: \n"
-                "{'question': '...', 'options': ['A', 'B', 'C', 'D'], 'answer': 'Correct Option String', 'source_page_number': 123}\n"
-                "If multiple pages, use the first one. source_page_number must be an Integer.\n"
-                f"Text: {context[:1500]}..."
+                "{'question': '...', 'options': ['A', 'B', 'C', 'D'], 'answer': 'Correct Option String'}\n"
+                f"Text: {context[:2000]}..."
             )
             response = client.chat.completions.create(
                 model="gpt-3.5-turbo",
@@ -62,7 +77,11 @@ def generate_question_from_text(full_text):
                 response_format={ "type": "json_object" }
             )
             content = response.choices[0].message.content
-            return json.loads(content)
+            data = json.loads(content)
+            
+            # Inject the KNOWN correct page number
+            data['source_page_number'] = selected_page_num
+            return data
         except Exception as e:
             print(f"AI Error: {e}")
             # Fallback below

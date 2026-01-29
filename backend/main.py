@@ -3,7 +3,7 @@ from contextlib import asynccontextmanager
 from typing import List, Optional
 from fastapi import FastAPI, UploadFile, File, HTTPException, Form
 from fastapi.middleware.cors import CORSMiddleware
-from fastapi.responses import JSONResponse
+from fastapi.responses import JSONResponse, Response
 from pydantic import BaseModel
 import shutil
 import uuid
@@ -160,7 +160,35 @@ def create_article(request: ArticleRequest):
         text = f.read()
         
     article_content = generate_article_from_text(text, request.topic)
+    article_content = generate_article_from_text(text, request.topic)
     return {"content": article_content}
+
+@app.get("/books/{book_id}/pages/{page_number}")
+def get_book_page_image(book_id: str, page_number: int):
+    import fitz  # PyMuPDF
+    import io
+    
+    pdf_path = os.path.join(UPLOAD_DIR, f"{book_id}.pdf")
+    if not os.path.exists(pdf_path):
+        raise HTTPException(status_code=404, detail="Book not found")
+        
+    try:
+        doc = fitz.open(pdf_path)
+        # page_number from AI is 1-based usually, fitz is 0-based
+        # If AI returns 1, we want page 0.
+        page_idx = page_number - 1
+        
+        if page_idx < 0 or page_idx >= len(doc):
+            raise HTTPException(status_code=404, detail="Page number out of range")
+            
+        page = doc.load_page(page_idx)
+        pix = page.get_pixmap(dpi=150) # render page to an image
+        img_bytes = pix.tobytes("png")
+        
+        return Response(content=img_bytes, media_type="image/png")
+    except Exception as e:
+        print(f"Error rendering page: {e}")
+        raise HTTPException(status_code=500, detail="Could not render page")
 
 if __name__ == "__main__":
     import uvicorn

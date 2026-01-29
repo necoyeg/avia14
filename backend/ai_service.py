@@ -11,8 +11,10 @@ def extract_text_from_pdf(pdf_path):
     try:
         reader = PdfReader(pdf_path)
         text = ""
-        for page in reader.pages:
-            text += page.extract_text() + "\n"
+        for i, page in enumerate(reader.pages):
+            content = page.extract_text()
+            if content:
+                text += f"\n[PAGE {i+1}]\n{content}\n"
         return text
     except Exception as e:
         print(f"Error extracting text: {e}")
@@ -47,9 +49,11 @@ def generate_question_from_text(full_text):
     if client:
         try:
             prompt = (
-                "Based on the following text, generate a multiple-choice question.\n"
+                "Based on the following text (which contains [PAGE X] markers), generate a multiple-choice question.\n"
+                "You MUST identify the specific page number(s) where the answer is found from the markers.\n"
                 "Return valid JSON with format: \n"
-                "{'question': '...', 'options': ['A', 'B', 'C', 'D'], 'answer': 'Correct Option String'}\n"
+                "{'question': '...', 'options': ['A', 'B', 'C', 'D'], 'answer': 'Correct Option String', 'source_page_number': 123}\n"
+                "If multiple pages, use the first one. source_page_number must be an Integer.\n"
                 f"Text: {context[:1500]}..."
             )
             response = client.chat.completions.create(
@@ -68,7 +72,8 @@ def generate_question_from_text(full_text):
     return {
         "question": "Sample question generated from text content (AI unavailable)?",
         "options": ["Option A", "Option B", "Option C", "Option D"],
-        "answer": "Option A"
+        "answer": "Option A",
+        "source_page_number": 1
     }
 
 def generate_article_from_text(full_text, topic):

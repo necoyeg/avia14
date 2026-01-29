@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { askQuestion } from '../api';
+import { askQuestion, API_URL } from '../api';
 
 const QuizSection = ({ books }) => {
     const [selectedBook, setSelectedBook] = useState('');
@@ -73,7 +73,23 @@ const QuizSection = ({ books }) => {
                     </div>
                     {feedback && (
                         <div className={`p-4 rounded-lg text-center font-bold text-lg ${feedback.includes('Correct') ? 'bg-green-500/20 text-green-300' : 'bg-red-500/20 text-red-300'}`}>
-                            {feedback}
+                            <p className="mb-4">{feedback}</p>
+
+                            {questionData.source_page_number && (
+                                <div className="mt-4">
+                                    <p className="text-sm font-normal text-gray-400 mb-2">
+                                        Source: Page {questionData.source_page_number}
+                                    </p>
+                                    <div className="rounded-lg overflow-hidden border-2 border-white/20 shadow-2xl mx-auto max-w-lg">
+                                        <img
+                                            src={`${API_URL}/books/${selectedBook}/pages/${questionData.source_page_number}`}
+                                            alt={`Page ${questionData.source_page_number}`}
+                                            className="w-full h-auto object-contain"
+                                            onError={(e) => { e.target.style.display = 'none'; }}
+                                        />
+                                    </div>
+                                </div>
+                            )}
                         </div>
                     )}
                 </div>

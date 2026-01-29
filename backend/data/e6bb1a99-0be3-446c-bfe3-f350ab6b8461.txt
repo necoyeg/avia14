@@ -1,0 +1,2527 @@
+ 
+ 
+ 
+THY A. O. UÇUġ EGĠTĠM AKADEMĠ MÜDÜRLÜĞÜ  
+EĞĠTĠM DÖKÜMANI 
+ 
+Doküman No ED.72.UEA.HHD 01 
+Revizyon Tarihi 24.04.2008 
+Sayfa No 1/44 
+ 
+ 
+THY KYS Form No: FR.18.0001 Rev.01 
+BÖLÜM 1 
+ATMOSFER 
+1.1. ATMOSFER 
+Atmosfer, başlıca oksijen (%21) ve hidrojen (% 78) olan belli sayıdaki gazın birleşiminden meydana 
+gelen gaz karışımıdır. Geriye kalan %1 'Iik bölüm büyük ölçüde karbondioksit, argon ve diğer gazlardan 
+oluşur. Bu gazların yüz deleri temelde atmosferin her yerinde aynıdır. Atmosfer bu gazların dışında su 
+buharı da içerir ama su buharının yüzdesi atmosferin farklı katmanlarında çeşitlilik gösterir. 
+                                                                     Tablo: 1.1 
+ 
+Hava bir gaz kütlesi olduğundan ve gazların sıkıştırılarak basınçları arttırılabildiğinden basıncı her yerde 
+aynı değildir. Havanın dünyaya yakın kısımlarında basıncı yaklaşık 14,7 lblsq, ya kadar çıkar. Bu basınç 
+düzeyi, yüzeye yakın olan havanın yoğun ve ılık olduğunu gösterir. Havanın yükseklere çıkıldıkça azalan 
+ağırlığı havanın basıncını düşürdüğünden, havanın yoğunluğu ve sıcaklık (en azından troposferde) 
+yükseklikle doğru orantılı olarak düşer. Bu bağıntı ICAO standart atmosferinde şu varsayımlara 
+dayanılarak açıklanmıştır. 
+ 
+Deniz Seviyesinde basıncı: 1013mb, l29,92 in/Hg 760 mm/Hg, 14,7psi 
+Deniz Seviyesinde yoğunluğu: 1225 gr/m³ 
+Deniz Seviyesinde sıcaklığı: + 15º santigrad 
+ 
+Sıcaklık düşüşü her 1000 ft'de 1,98º santigrad (standart ısı lapse rate). Bu düşüş -56,5º santigrad 
+dereceye kadar devam eder ve bu seviyeden sonra sabit kalır (isotermal bölge stratosferin alt 
+tabakasından başlayan bölge). 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+THY A. O. UÇUġ EGĠTĠM AKADEMĠ MÜDÜRLÜĞÜ  
+EĞĠTĠM DÖKÜMANI 
+ 
+Doküman No ED.72.UEA.HHD 01 
+Revizyon Tarihi 24.04.2008 
+Sayfa No 2/44 
+ 
+ 
+THY KYS Form No: FR.18.0001 Rev.01 
+1.2. GAZ KANUNLARI 
+a) BOYLE Kanunu : 
+ 
+Bir gazın hacmi, sıcaklık sabit kaldığında bu gazın maruz bulundu ğu basınçla ters orantılı olarak değişir. 
+Matematiksel olarak;  
+ 
+                                             P1   V2 
+--------- = --------- veya P1 x V1 = P2 x V2 
+                                             P2    V1 
+ 
+P1 = Gazın başlangıçtaki hacmi mmHg. PSl vs. 
+V 1 = Gazın başlangıçtaki hacmi it. ( cm3) vs. 
+P2 = Gazın sonuçtaki basıncı. 
+V2 = Gazın sonuçtaki hacmi. 
+ 
+Bir balonun irtifaya çıkarıldığında gösterdiği değişiklikler mide ve bağırsaklar gibi içinde gaz bulunan 
+organlarda da görülür. Vücut gazlarını n genişlemesiyle ilgili hesaplama yapılırken irtifaya bakılmaksızın 
+organlarda sabit olan normal vücut sıcaklığında (37ºC) su buharı basıncının 47 mmHg. olduğu 
+düzeltmesi yapılmalıdır. Su buharından dolayı düzeltme yapıldığında 47 mmHg.' Iık basınç toplam 
+basınçtan çıkarılmalıdır.  
+18.000 feet' de midenin hacmi kuru gaz ile yapılan hesaplamada elde edilenden 140 cm³ daha büyüktür. 
+Bu da aynı basınç değişikliğinde su buharıyla doymuş gazın hacminde meydana gelen rölatif değişikliğin 
+kuru gazdan daha büyük olduğunu gösterir. 
+ 
+Böyle kanunu kulak, sinüs, mide ve bağırsaklar gibi vücut boşluklarındaki hapsedilmiş gazlara bağlı 
+basınç değişikliğinin etkilerini açıklar.  
+ 
+b) DALTON Kanunu : 
+Bir gaz karışımının toplam basıncı, karışımdaki her bir gazın parsiyel bası nçlarının toplamına eşittir. 
+Karışım içindeki her bir gazın basıncı karışımdaki diğer gazlara bağımlı değildir ve karışımın toplam 
+basıncı parsiyel basınçlarının toplamına eşittir. Matematiksel olarak ifade edildiğinde;  
+ 
+Pt = P1 + P2 + P3................. + Pn 
+ 
+Pt = Gaz karıĢımının toplam basıncı, 
+ 
+P1,P2 = KarıĢımdaki her bir gazın parsiyel basıncıdır. 
+ 
+Bir gazın parsiyel basıncı, her bir gaz yüzdesinin ayrı ayrı toplam basınçla çarpımı ile elde edilir. Örnek : 
+Deniz seviyesinde, hava basıncı 760 mmHg. (Pı ) dir. Eğer atmosferin % 21 ' ini 02, % 79' unu N 
+içeriyorsa, deniz seviyesinde her bir gazın parsiyel basınçları; 
+ 
+Pt = 760 = 0.21 (760) + 0. 79 (760) 
+O2 = 159.6 mm/Hg. 
+N2 = 600.4 mm/Hg. 
+Pt = 159.6 + 600.4 = 760 mm/Hg. 
+ 
+Dalton kanunu irtifaya tırmanıldığı nda toplam basınçtaki düşüşle birlikte, oksijen parsiyel basıncında da 
+düşme olacağını ve dolayısıyle oksijen yetersizliği (hipoksi) meydana geleceğini açıklar. Fakat oksijen 
+parsiyel basıncı toplam hava basıncıyla doğru orantılı olarak azalacaktır. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+THY A. O. UÇUġ EGĠTĠM AKADEMĠ MÜDÜRLÜĞÜ  
+EĞĠTĠM DÖKÜMANI 
+ 
+Doküman No ED.72.UEA.HHD 01 
+Revizyon Tarihi 24.04.2008 
+Sayfa No 3/44 
+ 
+ 
+THY KYS Form No: FR.18.0001 Rev.01 
+c) HENRY Kanunu : 
+Bir sıvının içinde erimiş halde bulunan gazın miktarı, sıvı üzerindeki gazın parsiyel basıncı ile doğru 
+orantılı olarak değişir. Dekompresyon hastalığının nedeninde önemli bir rolü olan Henry kanunu, 
+matematik olarak şöyle ifade edilir;  
+ 
+P1     A1 
+                   ----------  = -------- - veya  P1 x A2 = P2 x A1 
+P2      A2 
+ 
+P1 = Gazın başlangıçtaki parsiyel basıncı. 
+A1 = Başlangıçta solüsyon içindeki gaz miktarı. 
+P2 = Gazın sonuçtaki parsiyel basıncı. 
+A2 = Sonuçta solüsyon içindeki gaz miktarı. 
+ 
+Henry kanununun fizyolojik önemi, deniz seviyesinde bir sıvı içindeki azotun, 18.000 feet'e çıkıldığında 
+yansının açığa çıkarak azalmasıdır. Bu durum vücut sıvıları içerisinde erimiş gazların açığa çıkmasıyla 
+ilgili dekompresyon (aero-embolizm) hastalıklarını açıklar;  Bend, Choke, vs.  
+ 
+d) Gazların Difüzyon Kanunu : 
+Difüzyon, bir gazın yüksek basınçtaki bir alandan düşük basınçtaki bir alana doğru hareket etmesidir.  
+Gazların Difüzyon kanununun fizyolojik önemi, kan ve alveoller (öncelikle solunum esnasında oksijen ve 
+CO2, denitrojenizasyonda da oksijen ve N2) ile kan ve vücut dokuları arasındaki gaz transferiyle ilgilidir. 
+Akciğer kapillerleri ve kapiller doku eklemleri gerçekte solunum gazlarının difüze edilebileceği çok ince 
+zarlardır. 
+ 
+e) CHARLES Kanunu : 
+Bir gazın basıncı, hacmi sabit kalmak kaydıyla ve hacmi de, basınç sabit kalmak şartıyla ısı etkisiyle 
+değişime uğrar. Bir gazın hacmini sabit tutarak ve ısısını düşürerek basıncı azaltılabilir. Matematiksel 
+olarak ifade edildiğinde;  
+ 
+P1      T1 
+                   ---------- = -----------     veya  P1 x T2 = P2 x T1  (Hacim sabit) 
+P2      T2 
+ 
+V1  T1 
+                    -------- = --------  veya     V1 x T2 = V2 x T1  (Basınç sabit) 
+V2  T2 
+ 
+P1 = Gazın başlangıçtaki basıncı 
+T1 = Gazın başlangıçtaki ısısı 
+P2 = Gazın sonuçtaki basıncı 
+T2 = Gazın sonuçtaki ısısı 
+ 
+Isı, gaz ile çalışırken daima mutlak ısıyı gösterir. Mutlak ısı Celsius ısısına 273 ºC ilave etmek suretiyle 
+elde edilir. Mutlak ısı keza, Kelvin tablosu olarak bilindiğinden K olarak da ifad e edilebilir. Bu nedenle 10 
+ºC = 28.3 K. dır. 
+ 
+1.3. SOLUNUM SĠSTEMĠ 
+Yaşamak için insanlar yedikleri yiyeceklerden enerji üretmek zorundadırlar. Bunun için dokulardaki 
+besinlerin oksidasyonu gerekir. Bu işlem yaşayan her hücreye sürekli oksijen teminini ve artık 
+maddelerin (karbondioksit, v.b.) devamlı atılmasını gerektirir. Bu yüzden solunum işlemi; solunum için 
+gerekli gazların, yani oksijenin ve karbondioksitin hava ve vücuttaki dokular arasında değiş-tokuşu olarak 
+düşünülebilinir. Vücut içindeki transfer  kan tarafından gerçekleştirilir çünkü sadece kan belirli miktarda 
+oksijeni yapısında muhafaza edebilir. Yine de nefes alma yoluyla kanın sürekli olarak oksijen 
+ 
+ 
+ 
+THY A. O. UÇUġ EGĠTĠM AKADEMĠ MÜDÜRLÜĞÜ  
+EĞĠTĠM DÖKÜMANI 
+ 
+Doküman No ED.72.UEA.HHD 01 
+Revizyon Tarihi 24.04.2008 
+Sayfa No 4/44 
+ 
+ 
+THY KYS Form No: FR.18.0001 Rev.01 
+bakımından beslenmesi gerekmektedir. Buna karşın vücudun, çok büyük miktarlarda karbondioksiti,  
+çoğunlukla kanda, suyla birleştirerek karbonik asit şeklinde bileşik oluşturmuş haliyle muhafaza edebilir. 
+Vücut karbondioksit seviyesindeki değişikliklere, oksijen seviyesindeki değişikliklerden daha fazla 
+duyarlıdır. Buna rağmen her iki seviyede beyindeki solunum merkezi tarafından denetlenir. 
+Hava insan vücuduna burun ve ağız yoluyla alınır. Burun, akciğerle alınan havayı nefes borusu 
+aracılığıyla ısıtır, nemlendirir ve filtre eder. Akciğerler, içinde atmosfer havası ve kan arasında gaz 
+alışverişi olan  organlarda Akciğerler hemen hemen tüm göğüs boşluğunu doldurmakta olup, kalp ile 
+birlikte göğüsteki en önemli organlardır .  
+                                                          ġekil: 1.1 
+ 
+Soluk borusu göğüs içinde iki bronşa ayrılır ve sol ve sağ a kciğerlere ulaşır (Şekil 1.1’ e bakınız). Bir 
+ağacın dalları gibi, her bronş, alveol adı verilen hava keselerine açılan bronşçuklara açılır (şekil 1.1'ye 
+bakınız) Alveol, kan taşıyıcı ince kılcal damarlarla kaplanmıştır. Alveol çeperleri çok ince olduğu 
+çeperlerin iki tarafında da basınç farkları varolduğu için oksijen kana çabucak karışabilmekte ve 
+karbondioksit kolayca kandan alveol içine geçebilmektedir. Oksijen, kırmızı kan hücrelerindeki 
+(hemoglobin) adı verilen proteinlerle tutulur ve tüm vücuda taşın ır. Yapısı itibariyle basit kimyasal bir 
+çözeltinin taşıyabileceğinden daha fazla oksijeni tüm vücuda taşır. Hemoglobin, oksijen moleküllerini, 
+dokulara yayılmaları için bırakılacakları düşük oksijen basıncına sahip bölgeye götürür. Karbondioksit 
+beden dokularından kana geçer ve kan içerisinde karbonik asit çözeltisi halinde taşınır.  
+Akciğerler, plevra adı verilen çift katlı zar tabakasıyla kuşatılmıştır. Akciğerler ve plevra kaburgalarca 
+(göğüs kafesi) korunmaktadır. Diyafram adı verilen ince bir kas doku su akciğerlerin tam altında yer 
+almaktadır. Solunum kaburgaların ve diyaframın hareketiyle sağlanmaktadır. Nefes almak için, göğüs 
+kafesini dışarı ve içeri hareket ettiren kaburgalar arasındaki kaslar kasılır, aynı zamanda,diyafram 
+aşağıya doğru daralarak göğüs kafesinin büyümesi sağlanır ve böylece akciğerler genişler. Bunun 
+sonucunda akciğerler içinde oluşan negatif basınç (dış basınçtan küçük olduğu için) ortamdaki havayı 
+içeri çeker. Nefes vermek için, gevşeyen göğüs kafesi kasları ve yükselen diyafram ciğerlerin hacminde 
+bir daralmaya sebep olur. 0Iuşan pozitif basınç (dış basınçtan büyük olduğu için) havanın dışarı 
+çıkmasını sağlar. 
+ 
+
+ 
+ 
+ 
+THY A. O. UÇUġ EGĠTĠM AKADEMĠ MÜDÜRLÜĞÜ  
+EĞĠTĠM DÖKÜMANI 
+ 
+Doküman No ED.72.UEA.HHD 01 
+Revizyon Tarihi 24.04.2008 
+Sayfa No 5/44 
+ 
+ 
+THY KYS Form No: FR.18.0001 Rev.01 
+ 
+1.4. VOLÜMLER 
+ 
+a) Tidal Volum (TV -Teneffüs derinliği) :  Her normal teneffüs siklüsü esnasında alınan ve verilen gaz 
+hacmidir. Yetişkin bir şahısta ortalama 500 cc dir, vücut aktivetesinin derecesiyle değişir.  
+b) Ġnspiratory Reserve Volum: (IRV-Yedek inspirasyon hacmi) Normal bir nefes almayı müteakip 
+(nefes alma sonu pozisyonunda), bilinçli ve istemli olarak eforla akciğe rlere doldurulabilen azami hava 
+hacmidir. (Ortalama 3300 cc.)  
+c) Expiratory Reserve Volum:  (ERV-yedek ekspirasyon hacmi) Normal bir nefes vermeyi müteakip 
+(nefes venne sonu pozisyonunda), eforla akciğerlerden atılabilen azami hava hacmidir. Ortalama 1000 
+cc dir.  
+d) Residual Volum: (RV-Arta kalan hacim) Eforlu bir nefes vermeyi müteakip akciğerlerde arta kalan ve 
+atılamıyan hava hacmidir. Ortalama 1200 cc dir. İradi olarak akciğerlerin tamamen boşaltılması 
+imkansızdır. Ancak akciğerler kollaps olduğunda ta mamen boşalır. Akciğerlerin toplam kapasitesi 
+yukarıda bahsedilen dört volümün toplamına eşittir. Kapasiteler, bu volümlerin foksiyonel 
+kombinasyonunu meydana getirdiklerinden esas kabul edilirler ve aşağıdaki şekilde tarif edilirler. 
+ 
+1.5. KAPASĠTELER 
+a) Inspiratory Capacity (IC) : 
+Normal bir nefes vermeyi müteakip, akciğerlere alınabilen azami hava hacmidir. Tidal volum + Inspiratory 
+reserve volüm = Inspiratory capacity (ortalama 3800 cc.) 
+b) Functional Residual Capacity (FRC) : Normal bir nefes vermeyi m üteakip, akciğerlerde kalan hava 
+hacmidir. Expiratory Reserve volum + Residual volum = Funksiyonel Residual Capacity (Ortalama 2200 
+cc). Rapid dekompresyonun etkisi en çok bu kapasite üzerinde görülebilir. 
+c) Vital Capacity (VC) : Maksimum bir nefes almayı  müteakip, zorlu bir nefes vermeyle, akciğerlerden 
+atılabilen azami hava hacmidir. Expiratory Reserve volum + Tidal volum + Inspiratory Reserve volum = 
+Vital Capacity (Ortalama 4800 cc). Vital kapasitesi yüksek olanlar uçuculuğa daha çok elverişlidirler, 
+çünkü değişik şartlara dirençleri daha fazladır.  
+d) Total Lung Capacity (TLC) : Daha önce bahsedilen 4 volumün toplamıdır. Tidal Volum + Expiratory 
+Reserve Volum + İnspiratory Reserve Volum + Residual Volum = Total Lung Capacity (Ortalama 6000 
+cc) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+THY A. O. UÇUġ EGĠTĠM AKADEMĠ MÜDÜRLÜĞÜ  
+EĞĠTĠM DÖKÜMANI 
+ 
+Doküman No ED.72.UEA.HHD 01 
+Revizyon Tarihi 24.04.2008 
+Sayfa No 6/44 
+ 
+ 
+THY KYS Form No: FR.18.0001 Rev.01 
+ 
+ 
+BÖLÜM 2 
+DOLAġIM SĠSTEMĠ 
+ 
+2.1. DOLAġIM SĠSTEMĠ 
+Kalp emme görevini üstlenen iki atrium (kulakçık) ve boşaltma görevini üstlenen iki ventrikül 'den 
+(karıncık) oluşur. Oksijence zenginleştirilmiş kan, akciğer alveolIerinden akciğer toplardam arlarına gelir 
+ve buradan kalbin sol kulakçığına geçer. Sol kulakçığa gelen kan buradan sol karıncığa geçerek buradan 
+aort damarına boşaltılır. Buradan tüm vücuda dağıtılmak üzere atardamarlara gelir. Atardamarlar daha 
+ileride kılcal damarlar olarak dallanmışlardır. Oksijen bu kılcal damarlardan dokulara difüzyonla geçer.  
+Karbondioksit dokulardan kana geçer ve toplar damarlarla kalbin sağ kulakçığına taşınır. Daha sonra 
+sağ karıncığa aktarılan kan, karbondioksitinden barındırılmak üzere akciğerlere pompalanır. 
+ 
+2.2. Barometrik (Atmosferik) Basınç : 
+Barometrik basınç, dünya yüzeyi üzerinde basınç yapan atmosferik gazların ağırlığının toplamıdır. Bu 
+kuvvet, yer çekimi tarafından moleküllerin dünyaya doğru çekilmesiyle meydana gelir ve irtifaya 
+çıkıldıkça atmosferik basınç azalır. Öyle ki 18.000 feet' deki basınç deniz seviyesindeki basıncın 1/2 si, 
+34.000 feet' de 1/4 ü kadardır. Bu bakımdan alçak irtifalarda yapılan dalış ve tırmanışlardan kulaklar 
+fazlaca etkilendiği halde yüksek irtifalarda o kadar etkilenmezler. İrtifaya tırmandıkça atmosferik basınç 
+ve yoğunluk azalmasına bağlı olarak oksijenin parsiyel basıncı da azalır, bu da vücudun yeterli derecede 
+oksijen alamamasına neden olur. Ancak hava içindeki oksijenin basıncı arttırarak bu durum giderilebilir. 
+Uçakların oksijen sistemleri bu nedenle yapılmıştır. 
+ 
+2.3. Oksijen-Ġrtifanın etkileri 
+Atmosfer basıncı, bir kolondaki civanın (kimyasal sembolü Hg'dir) ortam basıncından ileri gelen 
+yüksekliğine bakılarak ölçülür. Açık havada deniz seviyesindeki (MSL) orta lama atmosfer basıncı 760 
+mm-Hg'dir. Bu koşullarda oksijenin kısmi basıncı (yaklaşık %21) 160 mm -Hg olur. Akciğerlerdeki 
+havanın gaz yüzdeleri farklıdır: Oksijen %14,5, nitrojen %80, karbondioksit %5,5 Iik bir yüzdeye sahiptir. 
+Karbondioksit ve su buharını n yükselen yüzdeleri, oksijenin kısmi basıncını 103 mm -Hg ye düşürür. Bu 
+nedenle kısmi basınç, insan vücudunun adapte olduğu değerdir. Oksijen kısmi basıncının bu değerden 
+daha düşük olduğu durumlarda, oksijenin kana karışımı azalır ve vücudun işleyişi bozulur.  
+İrtifa yükseldikçe basınç düştüğü için akciğerlerdeki oksijenin kısmi basıncı da irtifa arttıkça düşer. 5000 
+ft'te gece görüşünün azalmasından başka, 8.000 ft'e kadar başka önemli bir etki kaydedilmemiştir. 8.000 
+ft'te beynin işleyişi yavaşlar. 10.0 00 ft'e gelindiğinde oksijenin kısmi basıncı deniz seviyesindekinin 
+neredeyse yarısı olur (yaklaşık 55mm -Hg) ve bu değer insan vücudu için sınır değerdir. 10.000 ft'in 
+üstünde oksijen solunumu takviye edilmezse vücutta daha sonra semptomlarını inceleyeceği miz 
+“hipoksi” meydana gelir.  
+Oksijenin kısmi basıncını yaklaşık olarak deniz seviyesindekine denk tutmak için uçuş personel ya 
+solunum maskesinden oksijence zenginleştirilmiş hava solumalı yada kabin basıncı 10000 ft'ten daha 
+alçak bir yüksekliktekine (genellikle 5.000ft – 8.000ft arası) denk bir değere ayarlanmalıdır.   
+Solunum maskesi kullanarak ve maskeden gelen havadaki Oksijen yüzdesini %100'e çıkartarak, 
+Akciğerlerdeki oksijenin kısmi basıncı 34.000 ft'e kadar deniz seviyesindekine denk tutturulabili r. Bu 
+irtifanın üstünde %100 oksijen solumak bile akciğerlerdeki oksijenin kısmi basıncının düşmesine engel 
+olamaz. 40.000 ft te solunum maskesinden %100 oksijen solunurken, bu basınç 10.000 ft'teki normal 
+solunum değerlerine eşit olur. Bu yüzden 40.000 ft solunum değerleri için bir sınır teşkil eder. 40.000 ft'in 
+üzerindeki irtifalarda, oksijenin kısmi basıncını yeterli düzeye çıkartmak için akciğerler, oksijeni basınç 
+altında almalıdır (basınçlı solunum). Normal sivil uçaklarda böyle olağanüstü tedbirlere  gerek yoktur 
+ancak Concorde'un uçuş irtifaları kabinde basınç düşüklüğü durumlarına karşı basınçlı solunum 
+ekipmanlarını zorunlu kılar. 
+ 
+ 
+ 
+ 
+ 
+THY A. O. UÇUġ EGĠTĠM AKADEMĠ MÜDÜRLÜĞÜ  
+EĞĠTĠM DÖKÜMANI 
+ 
+Doküman No ED.72.UEA.HHD 01 
+Revizyon Tarihi 24.04.2008 
+Sayfa No 7/44 
+ 
+ 
+THY KYS Form No: FR.18.0001 Rev.01 
+Oksijen yükseklikle ilgili temel bilgiler aşağıdaki tabloda özetlenmiştir. Tablonun sol sütunundaki değerler 
+kabin ba sınç yükseklikleridir. Bu yüzden bir Concorde 60.000 ft'te uçtuğunda kabin basıncı 8.000 ft 
+yüksekliği seviyesindedir ama pilotların solunum maskesinden %100 oksijen solumaları gerekmez. Yine 
+de bu donanım şiddetli bir basınç düşüşünün kabin basıncını anid en düşürme olasılığına karşı hazır 
+bulundurulmalıdır.  
+40000ft üzerinde.....    100 oksijenle basınçlı solunum gerekmektedir.  
+40000ft'te................     Bu irtifa çevre atmosfer basıncındaki %100 oksijen solunumunun, akciğerlere  
+                                    10.000 ft 'teki normal solunum kadar (55mm-Hg) kısmi  basınç yapacağı   
+                                    yüksekliktir. 
+34000ft..................      Bu irtifa, atmosfer basıncında %100 oksijen solunumunun akciğerlere deniz  
+                                   seviyesindeki solunumunun akciğerlere deniz seviyesindeki  solunum kadar   
+                                   (103mm-Hg) kısmi basınç yapacağı yüksekliktir. 
+10000ft'in üzerinde.....İlave oksijen solunumu gerektiren irtifadır. 
+10000ft.......................Buirtifa, normal solunumun akciğerlerin dayanabileceği minimum kısmi oksijen                                                                                       
+                                   basıncını veren yüksekliktir. (55 mmlHg) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+THY A. O. UÇUġ EGĠTĠM AKADEMĠ MÜDÜRLÜĞÜ  
+EĞĠTĠM DÖKÜMANI 
+ 
+Doküman No ED.72.UEA.HHD 01 
+Revizyon Tarihi 24.04.2008 
+Sayfa No 8/44 
+ 
+ 
+THY KYS Form No: FR.18.0001 Rev.01 
+BÖLÜM 3 
+HIPOKSI 
+ 
+3.1. HIPOKSI 
+Kan, hücre ve dokularda oksijen eksikliği nedeniyle normal vücut fonksiyonlarının bozulması durumudur. 
+Oksijen eksikliği çeşitli nedenlerle meydana gelebilir fakat uçuşta en çok karşı laşılanı, akciğer hava 
+keseciklerindeki (alveol) oksijenin parsiyel basıncının azalmasıdır. Bu durum genellikle, toplam 
+atmosferik basınç azalmasının uçucular tarafından uygun bir şekilde önlenememesi sonunda meydana 
+gelir. 
+ 
+3.2. Hipoksinin Vücut Organ Ve Sistemleri Üzerine Olan Etkileri: 
+a) Sinir Sistemi : 
+Sinir sisteminde oksijen eksikliğinden ilk etkilenen doku, beyin dokusudur. Gözün retinası embriyolojik 
+olarak beyin dokularından kaynaklanır ve bu nedenle gerek gözün, gerekse beynin oksijen ihtiyacı 
+karşılanmadığı takdirde görüş sahası ve beyin performansı bozulur. Eğer oksijen eksikliği uzarsa veya 
+akut hipoksi vuku bulursa beyin aktiviteleri durur ve ölüm meydana gelir. Oksijensiz kalarak harap olan 
+beyin hücreleri asla tekrar iyileşmezler ve ölürler. 
+b) Kardiovasküler Sistem (Kalp -DolaĢım Sistemi) : 
+Solunum ve sinir sistemine kıyasla, kardiovascular sistem hipoksiyaya karşı nispeten daha dayanıklıdır. 
+10.000 ft. üzerindeki irtifalarda kalp atımı, dakikada normalden 40 vuruş daha fazladır ve yine 15.0 00 ft 
+üzerindeki irtifalarda sistolik kan basıncı normalden biraz fazladır. Reflex ayarlamalar, kan akışını 
+ektremitelere uğratmadan kısa devre yaparak beyine ve kalbe venöz (kirli kan) dönüşünü fazlalaştırır. 
+Kardiovascular sistem, genellikle solunum sist eminin bozulmasından sonra bile kısa bir süre için tüm 
+dolaşımı devam ettirebilir. 
+c) Solunum Sistemi : 
+İrtifada hipoksi olan bir uçucuda gözlenen ilk etki, solunum oranının ve derinliğinin artmasıdır. Bu işlem, 
+kanın içindeki PO2' nin azaldığını algılayan  ve sinir yoluyla solunum sistemini uyararak kompanse 
+işleminin başlamasını sağlayan aortik ve karotid kemoreseptörler tarafından yapılır. Kemoreseptörler 
+normal solunum esnasında işlevsizdirler. Ancak, akciğer hastalığı ve parsiyel oksijen basıncının düşü k 
+olduğu bir çevre gibi kandaki PO2' yi düşüren anormal durumlar, kemoreseptörleri aktive eder. Ayrıca 
+kemoreseptörler vücudun kendi içinde dinamik çevresini muhafaza edebilmesine ve homeostasis'i 
+sağlamasına yardımcı olurlar. 
+ 
+3.3. DüĢük Basınç 
+Kabin basıncı olan bir uçakta basınç gövdesi, kokpit ve yolcu kabinini içerir. Kabin basıncının düşmesi 
+yapısal bir sorundan (normalde patlayıcı bir basınç düşüşü), bir yada daha fazla klimadaki sorundan 
+(veya bu klimalara hava sağlayan motorlardaki bir sorundan) ve ya bir yada daha fazla kabin basınç 
+kontrol sistemindeki (kabin basıncını düzenleyen vanaların konumunu kontrol eden sistemlerdir) bir 
+sorundan kaynaklanabilir.  
+Kabin basıncı kontrolünün yitirilip kabin yüksekliğinin arttığı durumlarda, uçağı 10.000ft veya daha düşük 
+bir irtifaya alçaltarak (bu sınır terrain clearance için güvenlidir) yada dışa akım vanalarını kapatarak ve 
+sonrasında elle kontrol ederek uçak kabin basıncının yüksekliğini 10.000ft veya daha düşük bir irtifa 
+düzeyine ayarlamak gerekmektedir. 
+Yüksek irtifa uçuşlarındaki, yapısal hasarlardan kaynaklanan ani basınç düşüşü durumlarında, kabin 
+görevlilerinde hipoksi ve düşük basınçtan kaynaklanan rahatsızlıkları önleyecek kadar çabuk irtifa 
+kaybetmek imkansız olabilir. Bu koşullarda acil durum oks ijeninin devreye girmesi gereklidir.Yolculara 
+oksijen sağlanması normalde “kimyasal jeneratörler” ile gerçekleşir. Önceden belirlenmiş kabin basıncı 
+yüksekliğinde (normalde 9000 ft) uçuş personeli, kabin basıncının yükseldiğine dair uyarılırlar. Uçuş 
+personelinin bu durumu düzeltemediği durumlarda yolculara bir kabin basınç yüksekliğindeki (normalde 
+14.000ft) oksijen maskeleri sunulur. Buna günlük konuşmalarda “the rubber jungle” denir. Bu maskelere 
+oksijen sağlayacak kimyasal jeneratörler, maskeler takıldığında çalışmaya başlar. Bir jeneratör genellikle 
+üç yada dört maskeyi (bir sıra koltuğu) 15 dakika süreyle besler. 
+ 
+ 
+ 
+THY A. O. UÇUġ EGĠTĠM AKADEMĠ MÜDÜRLÜĞÜ  
+EĞĠTĠM DÖKÜMANI 
+ 
+Doküman No ED.72.UEA.HHD 01 
+Revizyon Tarihi 24.04.2008 
+Sayfa No 9/44 
+ 
+ 
+THY KYS Form No: FR.18.0001 Rev.01 
+ 
+ 
+BÖLÜM 4 
+BAROMETRĠK BASINÇ DEĞĠġĠKLĠKLERĠNĠN MEKANĠK ETKĠLERĠ 
+ 
+4.1. BAROMETRĠK BASINÇ DEĞĠġĠKLĠKLERĠNĠN MEKANĠK ETKĠLERĠ 
+Organizma, gerek ir tifada (hipobarik şartlarda) ve gerekse su altında (hiperbarik şartlarda), vücut 
+boşluklarındaki hava basıncının dış hava basıncıyla eşitlenmesi suretiyle total barometrik basınç 
+değişikliklerine karşı büyük uyum ve dayanıklılık gösterebilir. Mide ve bağır saklar, orta kulak, paranazal 
+sinüsler ve solunum yolları normal olarak gaz içeren vücut bölgeleridir. Buradaki gazlar, yutulmuş hava 
+veya mide ve bağırsaklarda oluşan diğer gazlar olabilir. Bu gazlar vücut dışında meydana gelen bütün 
+barometrik basınç değ işikliklerinden etkilenirler. Bunlar bir uçakta veya hipobarik çemberde irtifa 
+alındığında basınç azalmasına bağlı olarak genişlerler; irtifa kaybedildiğinde ise tekrar basınç 
+yükselmesine nedeniyle hacim olarak küçülürler. Artan ve azalan basınca verilen bu mekanik cevap 
+Boyle kanunu'na göre gerçekleşir. 
+ 
+a) HapsedilmiĢ Gazlar :  İrtifa alındıkça vücut boşluklarındaki gazların genişlemesi, eğer bu gazlar 
+atılabiliyorsa herhangi bir güçlük yaratmaz. Fakat atılamazsa dış basınçla eşitlenme olmadığı için bu 
+durumdaki gazlar hapsedilmiş olarak kabul edilir. Dış basıncın gittikçe azalmasıyla organlardaki gaz 
+genişlemesi büyür, sonuçta duvarları elastiki olmayan organlarda basınç nedeniyle değişik derecelerde 
+ağrı meydana gelir. 
+b) Gaz GeniĢlemesi :  Vücuttaki bütün gazlar su buharı ile doyurulmuştur. Su buharı doygunluğu veya 
+parsiyel basıncı vücut ısısıyla ilgilidir. Genellikle vücut ısısı sabit olduğundan su buharının parsiyel 
+basıncı da 47 mm Hg. olarak sabittir. İrtifa alırken boşluk içeren vücut organlarındaki  su buharının hacmi 
+de artar, fakat bu sırada parsiyel basınç sabit kalır. Bir organdaki toplam genişleyen gaz miktarını 
+belirlemek için su buharı yönünden bir düzeltme yapılmalıdır. Aşağıdaki tabloda irtifa alışta nemli gaz ile 
+kuru gaz arasındaki hacim g enişleme oranları görülmektedir. Tablodan takip edilebileceği üzere, bu 
+artışlar irtifa ile doğru orantılı değildir . 
+ 
+BAROMETRĠK 
+BASINÇ 
+(mmHg.) 
+ĠRTĠFA 
+(feet) 
+KURU GAZ HACMĠ 
+(litre) 
+NEMLĠ GAZ HACMĠ 
+(litre) 
+760 
+523 
+349 
+226 
+141 
+87 
+54 
+47 
+0 
+10.000 
+20.000 
+30.000 
+40.000 
+50.000 
+60.000 
+63.000 
+1.0 
+1.45 
+2.18 
+3.36 
+5.30 
+8.72 
+14.1 
+16.1 
+1.0 
+1.5 
+2.4 
+4.0 
+7.6 
+17.0 
+102.0 
+BELĠRSĠZ 
+Tablo: 1.2 
+ 
+c) Mide ve Bağırsaklarda HapsedilmiĢ Gazların GeniĢlemesi :  Hızlı atmosferik basınç azalmasında 
+en sık karşılaşılan semptom, gastroin testinal bölgedeki gazların genişlemesinden dolayı meydana gelen 
+rahatsızlıktır. Fakat bu rahatsızlık çoğu kişilerde alçak veya orta irtifalarda ciddi değildir. 25.000 feet' in 
+üzerindeki irtifalarda oluşan gaz genişlemesi ve şiddetli ağrı, kan basıncında refleks olarak bir düşüşe ve 
+baygınlığa sebep olabilir.  
+Mide ve bağırsaklarda normal olarak dış atmosferik basınca eşit bir basınçta değişik miktarda gaz 
+bulunur ve mide ve kalın bağırsaktaki gaz miktarının, ince bağırsaklardaki gaz miktarından daha çok 
+olduğu kabul edilir. Bu gazın ana kaynağı büyük miktarda yutulan hava ve az miktarda da midedeki 
+sindirim, fermantasyon, bakteriyel çürüme ve sindirimi yapılan yiyeceklerden ortaya çıkan gazlardır. 
+Gastrointestinal bölgedeki gazların içerisinde oksijen, kar bondioksit, azot ve hidrojen sülfid bulunur. Bu 
+gazlar değişik oranlarda bulunmasına rağmen en büyük çoğunluk daima azot' dur. 
+ 
+ 
+ 
+THY A. O. UÇUġ EGĠTĠM AKADEMĠ MÜDÜRLÜĞÜ  
+EĞĠTĠM DÖKÜMANI 
+ 
+Doküman No ED.72.UEA.HHD 01 
+Revizyon Tarihi 24.04.2008 
+Sayfa No 10/44 
+ 
+ 
+THY KYS Form No: FR.18.0001 Rev.01 
+Mide ve bağırsaklardaki gazlar irtifa ile genişledikçe, geğirme veya yellenme yoluyla dışarı atılmadığı 
+sürece çok rahatsızlık yaratırlar. Çok yüksek irtifalarda, sindirim yollarındaki gazların genişlemesine bağlı 
+olarak diyafram yukarı kalkması sonucunda solunum güçlüğü meydana gelebilir. Başlangıçta deniz 
+seviyesinde 1lt. olan gaz vücuttan hiç atılmadığı varsayıldığında, 10.000 fe et' te 1,5 lt, 30.000'feet' te 4 
+lt., 40.000 feet' te 7.6 lt., 50.000 feet' te ise 17 litreye kadar genişler. 
+Yüksek irtifada gaz sancısıyla karşılaşan bir uçucuda solgunluk ve baygınlığın diğer belirtileri de 
+görülebilir ve bu gibi durumlarda rahatlık sağ lanıncaya kadar % 100 oksijen solunarak irtifa 
+kaybedilmelidir. Devamlı olarak yüksek irtifa uçuşuna çıkan uçucular genellikle kendilerine dokunan 
+yiyeceklerden kaçınmayı öğrenirler. Genel olarak gaz meydana getiren yiyecekler şunlardır: Soğan, 
+lahana, çiğ  elma, turp, kuru fasulye, salatalık, kavun veya bunların diğer yiyeceklerle karıştırılmasıyla 
+yapılan gıdalar. Yüksek irtifa  görevinden önce fazla miktarda sıvı alınmasından ve özellikle karbonat 
+ihtiva eden soda, kola, gazoz gibi içecekler ve hava yutul masını kolaylaştıran çiklet çiğnemekten de 
+kaçınmalıdır.  
+ 
+d) Orta Kulak : Tırmanışta karşılaşılan orta kulak ile ilgili güçlüklerin çok az ve nadiren olmasına karşın, 
+genellikle en büyük güçlükler alçalışta meydana gelir. Bu güçlük genellikle kulaklarda b ir dolgunluk hissi, 
+işitmenin zayıflaması ve ağrı şeklinde olan kulak tıkanması (ear block) veya diğer bir deyişle ''barotitis 
+media'' dır. Eğer alçalışta dış hava basıncı ile orta kulak basıncı arasında eşitlik sağlanamazsa, şiddetli 
+bir kulak ağrısı meyd ana gelir ve kulak zarı yırtılabilir. Dış kulak, huni şeklinde bir bölüm ve dış işitme 
+kanalından meydana gelmektedir. İşitme kanalının sonundaki kulak zarı (tympanic membrane) dış 
+kulakla orta kulağı birbirinden ayırır.  
+Orta kulak, kafatası kemiğinin içi nde yer almaktadır ve orta kulağı iç kulaktan ayıran ve kulak zarından 
+gelen titreşimleri iç kulak zarına ileten Özengi, Örs, Çekiç adları verilen birbirine irtibatlı 3 küçük kemikten 
+meydana gelmektedir. Orta kulak, burun solunum yollarının gerisinde bulunan nasofarinkse östaki kanalı 
+ile bağlantılıdır ve dış hava basıncı ile orta kulak arasındaki basınç eşitliği bu kanalla sağlanır. 
+ 
+4.2. Faydalanılabilir Bilinç Süresi (Time of Useful Consciousness- TUC): 
+TUC ilave oksijen verilişinin kesilmesinden veya oksijenden fakir bir ortama maruz kalındığından itibaren 
+beyin fonksiyonlarının kaybolmasına kadar geçen süredir.  
+TUC aynı zamanda ''etkili performans zamanı'' (effective performance time) olarak da bilinir. Bu da bir 
+kişinin uygun ilave oksijen alamadığı bir çevrede uçuş görevini etkili bir şekilde yapamamaya başladığı 
+ana kadar geçen süre olarak tarif edilir. 
+ 
+4.3. HĠPERVENTĠLASYON 
+Solunumun sayı ve derinliğinin artması sonucu akciğerlerden fazla miktarda CO2 kaybolması ve 
+normalde 40 mmHg. olan alveoler PaCO2' nın düşerek kanın asit-baz dengesinin bozulması ile meydana 
+gelen beyin hipoksisi durumudur. 
+Her bir vücut hücresinin aktivite derecesi kanın asit -baz balansı tarafından ayarlanır. Balans 
+bozulduğunda, hücresel aktivite azalır ve tüm organizma fonks iyonları zayıflar. Şiddetli durumlarda asit 
+veya baz miktarının fazlalığı, vücut fonksiyonlarını durdurabilir ve ölüm meydana gelebilir.  
+Solunumun derinlik ve oranının artması, akciğerlerden normalden fazla miktarda CO2 kaybına neden 
+olur. Bunun sonucu ol arak da, H+ konsantrasyonu azalarak kanın pH seviyesi yükselir ve solunum 
+alkalozis'i oluşur. Bu da ancak fazla CO2 kaybının durdurulması, CO2 takviyesi veya her ikisi birden 
+yapılarak kandaki H+ iyonlarının miktarını arttırmak suretiyle kompanse edilebilir. 
+ 
+4.4. Asidozis : 
+Aşırı asit üretimi sonucu meydana gelen asidozis, kontrol edilemeyen şeker hastalıklarında veya 
+diyabetin yol açtığı yüksek organik asit durumlarında görülebilir. Akciğer hava kanallarının tıkanması, 
+astım, pnömoni gibi solunum hastalık ları veya akciğerlere yeterli miktarda kanın pompalanamadığı kalp 
+hastalıkları durumlarında da meydana gelebilir. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+THY A. O. UÇUġ EGĠTĠM AKADEMĠ MÜDÜRLÜĞÜ  
+EĞĠTĠM DÖKÜMANI 
+ 
+Doküman No ED.72.UEA.HHD 01 
+Revizyon Tarihi 24.04.2008 
+Sayfa No 11/44 
+ 
+ 
+THY KYS Form No: FR.18.0001 Rev.01 
+4.5. Alkolozis : 
+Alkalozis' in birinci etkisi, nöromüsküler sistem (sinirsel kas aktivitesi sistemi) üzerindedir ve alkalozis 
+durumunda beyin hücreleri oksijen kullanımında güçlük çeker. Bu nedenle de kendini iyi hissetmeme ve 
+fenalaşmayla başlayan semptomlar bilinç kaybıyla sonuçlanabilir.  
+Alkalozis oluştuğunda, azalan kan CO2 düzeyinin korunabilmesi için derhal solunumu yavaşlatan 
+beyindeki solunum merkezi, oksijen kullanma yeteneğinin de azalması nedeniyle etkilenir ve genel 
+olarak şu semptomlar ortaya çıkar: 
+ 
+ Nöromüsküler irritabilite, 
+ Kas kasılmaları, 
+ Ekstremitelerde ve ağızda uyuşma, karıncalanma, 
+ Öfori, 
+ Nefes darlığı 
+ 
+4.6. Pozitif Gz' nin Fizyolojik Etkileri : 
+Ayaktan-başa doğru olan akselerasyonda, baştan ayak yönünde oluşan ''eylemsizlik veya yerçekimi 
+kuvveti'' pozitif G kuvvetini doğurur. Hareket kısıtlılığı, solunum güçlüğü, kalp -damar sistemi üzerine 
+etkileri, görüş keskinliğinde azalma, vestibüler uyarım, beyin dolaşımına etkileri gibi.  
+ 
+(a) Hareket Üzerine Etkisi: Yeryüzünde + 1 G altında 70 kg. gelen bir kişi + 9 Gz altında 9 x 70 = 630 
+kg. olur. Bu durum vücut hareketlerini güçleştirir. 
+(b) Solunum Sistemine Etkisi: Akciğerlerin bütün volümleri (tidal volüm, fonksiyonel ve rezidüel 
+kapasite) azalır. 
+(c) Kalp - Damar Sistemine Etkileri: Pozitif G' nin bu sisteme etkisi, diğer vücut sistemlerine olan 
+etkisinden daha fazladır. Kan akışını doğrudan etkilediğinden, kan basıncını vü cudun alt doku ve 
+organlarında arttırıp, yukarı bölgelerinde ise azaltır. 
+(d) GörüĢ Üzerine Etkisi: Akselerasyon arttıkça görüş keskinliğinin progresif olarak azaldığı insan 
+santrifüjü deneylerinde kanıtlanmıştır. G miktarı arttıkça önce periferal (çevrese l) görüş azalır, grayout 
+daha sonra tunnel vision ve en sonunda G miktarı azaltılmaz ise blackout meydana gelir. 
+(e) Vestibüler Sisteme Etkisi: İç kulakta yerleşik bulunan vestibül sistemi, denge ve çevresel 
+oryantasyon üzerinde önemli rol oynar. Yerçekimi  ve doğrusal akselerasyon kuvvetleriyle uyarılan otolit 
+uçucuya uçuş yönüne ait bir his verirken, yarım daire kanalları açısal akselerasyon ile ilgili yön hissini 
+bildirir. Uçuştaki akseleratif kuvvetlere bağlı olarak vestibüler aparatın etkilenmesiyle diz oryantasyon 
+(uçuculuktaki adıyla ''vertigo'') görülebilir. 
+ 
+4.7. Negatif Gz'nin Fizyolojik Etkileri: 
+Negatif Gz, baştan ayağa doğru olan akselerasyonlarda, ayaktan başa doğru ortaya çıkan ''eylemsizlik'' 
+kuvvetidir.  
+Eğer kişi baş aşağı durursa -1 Gz' nin etkisi altındadır. Negatif G toleransı, pozitif G toleransına göre 
+daha düşüktür; hatta -2 Gz' de bile istenmeyen semptomlar ortaya çıkar. Bundan dolayı düşük negatif 
+akselerasyon düzeylerinde bile ciddi  performans kaybı görülür. Bu nedenle uçuş manevrala rında -1.5 
+Gz' den yüksek düzeyde akselerasyon çok seyrek uygulanır. -Gz' den en çok etkilenen kardiyovasküler 
+sistemdir. Göğüs üzerinde boyun ve başta damar basıncı artarken, göğüs altında karın ve bacaklarda 
+azalır. . 
+ 
+4.8. Transvers Akselerasyon: 
+Vücudun uzunluk eksenine dik açılı yönlerde oluşan akselerasyon kuvvetlerine daha çok gövde üzeri 
+inişlerde, uçak gemilerinden uçakların kalkışlarında ve uzay araçlarının fırlatılışlarında karşılaşılır. 
+Transvers akselerasyona tolerans yüksektir. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+THY A. O. UÇUġ EGĠTĠM AKADEMĠ MÜDÜRLÜĞÜ  
+EĞĠTĠM DÖKÜMANI 
+ 
+Doküman No ED.72.UEA.HHD 01 
+Revizyon Tarihi 24.04.2008 
+Sayfa No 12/44 
+ 
+ 
+THY KYS Form No: FR.18.0001 Rev.01 
+4.9. Görsel Kusurlar ve Onların Düzeltilmesi: 
+a. Emetrop Göz  : Sonsuzdan gelen ışınları retinada doğru olarak birleştiren gözdür. 
+b. Ametrop Göz : Sonsuzdan gelen ışınlar retinada toplanmıyorsa, ametrop bir durum oluşur.  
+    Ametrop Göz ikiye ayrılır; 
+   
+(1) Hipermetropi - Işığın kırılması retinanın arkasında, 
+(2) Miyopi - Işığın kırılması retinanın önünde. 
+ 
+      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ġekil: 1.2 
+ 
+1) Uzağı görebilme (hipermetrop); Göz küresinin normalden daha kısa olmasından 
+kaynaklanmaktadır. Kornea/lensten retinaya olan mesafe onların merkez uzunluklarından daha azdır ve 
+yakın nesneler bulanık olurlar.  Bu durum, yakınsak (conveks) toplayıcı görünümlü merceklerle 
+düzeltilebilir (Şekil: 1.2). 
+ 
+2) Yakını görebilme (miyop);  Göz küresinin normalden daha uzun olmasıyla  alakal ıdır. 
+Kornea/lensden retinaya olan mesafe onların merkez uzunluklarından daha fazladır ve uzak mesafeler 
+bulanık olurlar. Bu durum, ıraksak (konkav) dağıtıcı görünümlü merceklerle düzeltilebilir. Her iki durumda 
+da düzeltmeye ihtiyaç duyan pilotların, onla rın düzeltilen vizyonları normal küçük bir yazıyı iyi bir ışıkta 
+30 cm'lik mesafeden ve her iki gözde de 6/9'u okumayı sağlayıncaya kadar uçmalarına izin verilecektir 
+(genelde standart görme eşelinde alttan ikinci çizgide olan harfler 6 metrelik mesafeden okunabilir [Şekil: 
+1.3]). 
+ 
+                               
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ġekil: 1.3 
+ 
+Gözün merkez uzunluğu, yakın yada uzak nesnelere gözün odaklanması için ayarlanabilir, bu süreç 
+uyum (akomodasyon) olarak bilinmektedir. Bu süreç yaşla birlikte Ienslerin esnek liğinin azalmasıyla 
+düşmektedir. çoğu insanda bu, kırk yaştan sonra küçük yazıları okuyamama ile birlikte aşikar olmaktadır. 
+Bu da Presbiyopi olarak bilinmektedir. Bu durum genelde hafif dışbükey mercekli okuma gözlükleri 
+reçetesiyle düzeltilmektedir. Eğer  bir pilot gençken miyopsa ve ilerleyen yaşla presbiyop (yakın 
+
+ 
+ 
+ 
+THY A. O. UÇUġ EGĠTĠM AKADEMĠ MÜDÜRLÜĞÜ  
+EĞĠTĠM DÖKÜMANI 
+ 
+Doküman No ED.72.UEA.HHD 01 
+Revizyon Tarihi 24.04.2008 
+Sayfa No 13/44 
+ 
+ 
+THY KYS Form No: FR.18.0001 Rev.01 
+nesnelere odaklanamama) olmuşsa bu sorun çift odaklı merceklerle düzeltilebilir. Görevi yakına bakmak 
+olan bir kişi için Miyop olmak daha rahattır. Göz ne kadar miyop olursa yakın noktası o kadar yakın ve ne 
+kadar Hipermetrop olursa o kadar uzak olur.  
+ 
+ 
+ 
+ 
+ 
+ġekil: 1.4 
+     
+4.10. Göz ve GörüĢle ilgili Terimler 
+a) Katarakt:  İhtiyarlıkta Iens proteinleri denature olur, Iensin şeffaflığı, esnekliği kaybolur. Bunun 
+sonucunda görüş bulanıklılığı başlar.  
+b) Astigmatizm: Göze düşen ışınlar her yönde eşit olarak kırılmaz, ya ışınlar kırılma yüzeylerine eğik 
+olarak düşer veya kırılma yüzeyleri her doğrultuda aynı eğriliğe sahip değildir. Pratik tanımı bir noktayı 
+dağınık görmektir. Tam bir nokta olarak görememektir. 
+c) Diyoptri: Bir metre odak uzaklığı olan merceğin kırma kuvveti, kırılma odak uzaklığıyla ters orantılıdır. 
+İki diyoptrinin odak uzaklığı 0.5 metredir.  
+ 
+Glaukam: Gözün gerginliği göz içi basıncıyla sağlanır, 20 -26 mm/Hg basıncına eşittir, ba sınç artınca 
+göz siniri hasara uğrar ilerleyici körlük oluşur. 
+ 
+e) Ġris: Fotoğraf makinesindeki diyaframa benzer, ışık ne kadar fazla ise o nispette daralır, ışık azaldıkça 
+genişleyerek retinaya düşen ışığı artırır. İrisin dıştan bakıldığında görülen aralı ğı pupilla (göz bebeği) 
+olarak isimlendirilir. 
+ 
+4.11. PĠLOTLAR VE GÖZLÜK 
+Kırk yaşın üzerindeki çoğu pilotlar okumada görüşlerini düzeltmek için gözlüğe ihtiyaç duymaktadırlar. 
+Buna ilaveten bazıları uzak görüş için, bazıları da bordo paneli düzenindeki yak ın görüş için düzeltmeye 
+ihtiyaç duyacaklardır. Uçuş için uygun olan gözlüğü takmanın önemi, bir pilotun okuma gözlüğünü uzak 
+bakışta kullanmasıyla mesafeyi hatalı değerlendirip kazaya neden olduğu örneklendirilebilir. Aşağıdaki 
+açıklamalar görsel kusurları düzeltirken akılda tutulmalıdır. 
+ 
+a) Yakın görüĢ düzeltmesi:  Pilotlar, uçarken büyük çerçeveli yakın okuma gözlükleri kullanmamalıdır 
+çünkü pilotların görevleri sık sık yakın ve uzak görüşler arasında değişiklikler getirmekte, uzak objeler 
+okuma gözlüğüyle bulanık hale gelmektedir. 
+
+ 
+ 
+ 
+THY A. O. UÇUġ EGĠTĠM AKADEMĠ MÜDÜRLÜĞÜ  
+EĞĠTĠM DÖKÜMANI 
+ 
+Doküman No ED.72.UEA.HHD 01 
+Revizyon Tarihi 24.04.2008 
+Sayfa No 14/44 
+ 
+ 
+THY KYS Form No: FR.18.0001 Rev.01 
+b) Yakın ve uzak görüĢ düzeltmesi: Hem yakın hem de uzak görüş düzeltmelerinin gerektiği yerde 
+gözlük mercekleri veya kontak lensler şarttır ve pilotlara, her segman için en uygun olan hacim ve şekli 
+CAA Tıbbi Muayenecileriyle tartışmaları tavsiye edilmektedir. Yakın görüş, bordo panelinin düzeni ve 
+uzak görüş için üç bölümlü düzeltme gerekli olduğunda uzman tavsiyesi gerekmektedir. 
+ 
+c) GüneĢ gözlükleri:  Açık havada bulutlar üzerinden gelen yansımalar pilotların yüksek ışık 
+seviyeleriyle karşılaşmalarına sebep olmaktadır. Mavi ve ultraviyole ışık seviyeleri yüksek irtifalarda daha 
+fazladır. Bu elementler, uzun yıllar sonra retinaya gittikçe artan zararlara neden olabilir. İyi kalitedeki 
+güneş gözlükleri, tayfın mavi ve ultraviyole bileşenlerini süzerek bu sorunlara karşı koruma  bağlayabilir. 
+Genelde yeşil yada kahverengi renk tonları, tayfın sonunda maviyi süzmek için en uygun olanlarıdır fakat 
+lens materyallerinin bileşenlerinin kendisi gibi diğer faktörler süzgeç özelliklerini etkileyebilir. Kendi 
+başlarına renk tonları süzme vasıflarında güvenilir bir kılavuz değildir. Lensler, gözden geçen ışık 
+değerinin %85 -%90 azaldığı anlamına gelen % 10 -% 15 'lik parlaklık iletme değerine sahip olmalıdır. 
+Bütün gözlükler çevresel görüşü sı nırlamaktadır ve bu nedenle kalın çerçeveden kaçınılmalıdır. Ayrıca 
+bulut yansıması ve diğer parlak ışıkların olmadığı uçuş koşullarında, loş kokpit içinde güneş gözlüğünün 
+gereksiz kullanımından da kaçınılmalıdır. 
+ 
+4.12. Görsel Ġllüzyonlar : 
+Gözün fizyolojik işleyişi bazen yanılgılar yaratabilmektedir. Uçuşta pilot bu yanılgıların nedenlerini, varsa 
+önlemlerini bilirse, en azından bunlara aşına olursa, performansını daha üst düzeyde tutabilir. Aşağıda 
+belli başlı görsel illüzyonlar açıklanmaktadır. 
+ 
+a) Art hayaller : 
+Güneş, fotoğraf makinesi flaşı, parlak bulut gibi kuvvetli bir ışık uyarılarına maruz kaldıktan sonra bazen 
+30 saniye süreyle parlak ışık görüntülerini görmeye devam etme durumu pozitif art hayal olarak 
+adlandırılır. 20 saniye gibi bir süre boy unca parlak ve renkli bir objeye baktıktan sonra nötr bir yere 
+bakan göz, orada ilk bakılan objenin biçiminde fakat farklı renkte (bakılan obje kırmızıysa mavi -yeşil, 
+sarıysa mavi) bir imajı bir süre görmeye devam eder. Eğri çizgilere, spirallere bakılıp s onra gözü başka 
+yere çevirdiğimizde ise eğrilerin düzleştiği, kıvrımlarının yön değiştirdiği, spirallerin daralıp -genişleme 
+veya dönme hareketleri yaptığı gibi yanılsamalar olur ki, buna da negatif art hayal denilmektedir. Pilot 
+parlak bulutlara baktıktan sonra ışık ayarı düşük alet paneline baktığında, adaptasyon için geçen sürede 
+hem göstergeleri göremeyecek, hem de göstergelerin üzerine düşen art hayaller görüntüyü daha da 
+bozacaktır. Bu algı bozulmalarını bilmeyen pilotun şaşırarak yanlış kararlar verme si, en azından dikkat 
+dağınıklığına düşmesi olasıdır. 
+ 
+b ) Otokinezis : 
+Karanlık bir odada zayıf bir ışığa gözler fikse edildikten bir süre sonra, ışığın sağa sola geziniyor gibi 
+hareket ettiği algılanır. Bu illüzyon yer ışıklarına, koldaki uçağın kanat ış ıklarına, yıldızlara veya kabin 
+içindeki zayıf ışıklara sürekli bakıldığında da gerçekleşerek felaketli durumlara neden olabilir. Kabin içi, 
+kanat ucu vb. gibi ışıkların şiddetini ve sayısını arttırmak ve dikkati sürekli olarak bir ışık üzerinde 
+tutmama alışkanlığı kazandırmak yoluyla bu yanılgıdan kurtulunabilir. 
+ 
+c) BoĢlukların doldurulması : 
+İnsanlar genellikle neyi görmek (veya duymak) istiyorlarsa onu görmeye (veya duymaya) yatkındırlar. Bu 
+nedenle tam göremediği (veya duyamadığı) durumlarda boşlukları  istediği, umduğu, korktuğu veya 
+koşullandığı şeylerle doldurabilirler. Buna, ''beklentilerle biçimlendirilmiş şablon'' anlamında set 
+denilmektedir. Ayrıca zaten sözün gelişine veya o söze anlam kazandıran diğer verilere göre sonraki 
+ses, söz veya görüntün ün ne olacağını tahmin etme (context) alışkanlığı çoğu kişi için geçerlidir. 
+Örneğin; ''yüz'' sözcüğü, cümlenin kontekstine göre 100 sayısı, insan yüzü, deri yüzme veya suda yüzme 
+gibi farklı anlamlar kazanabilir. Aşağıdaki şekil: 1.5’ nin birinci sırasınd aki harflerin yazılış stiline göre B 
+harfini yadırgamadan tanıyan göz, ikinci satırdaki ayrı B harfini bu kez 13 olarak okuyacaktır. 
+ 
+ 
+ 
+ 
+THY A. O. UÇUġ EGĠTĠM AKADEMĠ MÜDÜRLÜĞÜ  
+EĞĠTĠM DÖKÜMANI 
+ 
+Doküman No ED.72.UEA.HHD 01 
+Revizyon Tarihi 24.04.2008 
+Sayfa No 15/44 
+ 
+ 
+THY KYS Form No: FR.18.0001 Rev.01 
+ 
+ġekil: 1.5 
+ 
+Havacılıkta pilot bir uçağa ait standart alet yerleşimi, sistem, terminoloji, vb. gibi özelliklere alıştıkta n 
+sonra, başka bir uçağa geçtiğinde aynı sistem ile karşılaşırsa kolay intibak edecek, eğitim süre ve 
+maliyeti azalacağı gibi, gereksiz yorgunluk ve pilot hataları da azalacaktır. Tersine, alet yerleşiminden, 
+kullanım prensiplerine ve sistemlerine kadar fa rklı prosedürle uçan bir uçağa geçen pilot eski 
+alışkanlıklarını arayacak, algılarındaki boşlukları eski bilgileriyle dolduracaktır. Bu olgu sadece görsel 
+değil, işitsel olarak da gerçekleşebilir. Örneğin; yabancı bir ülke meydanına inecek olan bir pilotun , telsiz 
+konuşmalarında farklı telaffuz, telsiz arızası, kullanılan terminoloji farklılığı gibi nedenlerle tam 
+anlayamadığı ifadeleri zihnindeki şablona göre tamamlaması mümkündür. 
+d) Ġzafi hareket : 
+Bir tren veya otobüste otururken, yandaki hat veya yolda  hareket eden bir araca bakıldığında, sanki 
+kendi aracımızın hareket etmekte olduğu sanılır. Bu rölatif hareket illüzyonu, kol uçuşlarında problem 
+yaratabilir.  
+ 
+e) Hayali ufuk illüzyonu : 
+Gerçek ufuk çizgisinin görülemediği kötü havalarda veya bulut üst ü uçuşlarda pilot, ufuk gibi algıladığı 
+meyilli bir bulut kümesini referans alarak uçağa yanlış kumanda verebilir. Gece uçuşlarında meyilli 
+arazideki yer ışıkları da benzer biçimde pilotu yanıltabilir. Bu yanılgıdan kurtulmanın yolu, uçuş aletlerine 
+güvenmektir.  
+ 
+ 
+ġekil:1.6 Ġllüzyonun derinliği 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+THY A. O. UÇUġ EGĠTĠM AKADEMĠ MÜDÜRLÜĞÜ  
+EĞĠTĠM DÖKÜMANI 
+ 
+Doküman No ED.72.UEA.HHD 01 
+Revizyon Tarihi 24.04.2008 
+Sayfa No 16/44 
+ 
+ 
+THY KYS Form No: FR.18.0001 Rev.01 
+f) Geometrik illüzyonlar : 
+Uzunluk, büyüklük ve biçimleri birbiriyle eşit olan geometrik şekiller, bazen çevrelerinde gözün referans 
+aldığı başka şekillerle birlikte görüldüğünde sanki daha uzun, daha kısa, kırı k veya eğik olarak 
+algılanabilirler. Aşağıda (a: Ponzo illüzyonu) çizimindeki dikey ve (b: Muller -Lyer illüzyonu) Çizimindeki 
+yatay çizgiler eşit uzunlukta mıdır? Keza, (c: Hering şekli) ve (d: Zollner şekli)' deki dikey çizgilerin 
+paralelliği bozulmuş mudur?  
+ 
+ 
+ġekil: 1.7 Bazı Geometrik illüzyonlar 
+ 
+Bu şekillerde çarpıcı örnekleri gösterilmiş olan illüzyonlar havacılıkta özellikle iniş sırasında pist genişliği, 
+uzunluğu ve eğimi konusunda pilotları yanıltabilir. Örneğin; geniş bir pist daha kısa ve yüksek te gibi 
+algılanır keza açık renk beton kaplama, siyah asfalt kaplamaya göre pisti daha geniş ve yüksek gösterir. 
+İniş pisti yakınındaki taksirutların, binaların, ormanlık bölgelerdeki ağaçların konumu, eğimli arazi yapısı 
+vs. de benzer şekilde yanılgılara neden olabilir. 
+ 
+ġekil: 1.7 
+ 
+g) Ġrtifa ve mesafe yanılgıları: 
+Pilotun üzerinde uçtuğu bölge deniz, çöl gibi monoton veya nirengilerden yoksun bir arazi ise, irtifa tayini 
+güçleşir. Keza sis, pus, duman, yağmur ve kar yağışı da irtifa ve mesafe tahminini g üçleştirir. Uzakta 
+bulunan objelerin renk kontrastlarındaki bozulmaya alışık olan görsel mantık, sisin bozduğu kontrastlar 
+nedeniyle, objeleri olduğundan daha uzak gibi algılar. İnişlerde pilot pisti daha uzakta sanarak alçalma 
+
+ 
+ 
+ 
+THY A. O. UÇUġ EGĠTĠM AKADEMĠ MÜDÜRLÜĞÜ  
+EĞĠTĠM DÖKÜMANI 
+ 
+Doküman No ED.72.UEA.HHD 01 
+Revizyon Tarihi 24.04.2008 
+Sayfa No 17/44 
+ 
+ 
+THY KYS Form No: FR.18.0001 Rev.01 
+için geç kalabilir (overshoo t). İki gözle yapılan (binoküler) görüş, objelerin hareketleri, perspektif ve iyi 
+aydınlatma gibi unsurlar derinlik ve mesafe algısını arttırmaktadır (Şekil:1.7). 
+ 
+h) Beyaz görme: 
+Bulut, kar, beyaz kum gibi yüzeyler üzerlerine düşen ışığın % 75 -90' ını yan sıtma özelliğine sahiptirler. 
+Örneğin; karlı alanlar üzerinde yapılan uzun uçuşlarda beyaz yüzey ile beyaz bulutlarla kaplı ufkun 
+birbirine karışması sonucu ufuk kaybedilir. Ufuk referansının yokluğu, her tarafın beyaz görülmesi, pilotu 
+oryantasyon kaybına götürebilir. 
+ 
+i) BoĢluk Miyopisi : 
+Yüksek irtifada gözün kendisine uzun süre referans bulamaması sonucu ''fizyolojik miyopi'' veya ''boşluk 
+miyopisi'' denilen sorun oluşur. Bu durum refleksif bir göz uyumu sonucu meydana gelir ve 0.50 ila 2.00 
+diyoptri ar asında değişebilen relatif bir miyopi durumudur. Teorik olarak böyle bir durumda emetropik 
+olan bir kişi normal görüş kapasitesindeki bir hedefi göremez. Örneğin; normal görüş keskinliği 20/20 
+olan bir pilot 4,5 mil mesafeden 7 ft çapındaki bir uçağı rahat lıkla görebilir. Fakat aynı şahıs 0.50 
+diyoptrilik bir miyopiye sahip olduğu zaman aynı uçağı ancak 3 mil mesafeden görebilir. (Bu problem 
+hafif derecede hipermetrop kişilerin pilot seçiminde tercih edilmesiyle giderilmektedir). 
+ 
+4.13.  Spatial Disoryantasyon'u Önlemek Veya Yenmek : 
+Vertigo olduğunu anlayan bir pilotun alması gereken standart önlemler şu şekilde sıralanabilir; 
+ 
+a) Alet UçuĢuna GeçiĢ:  Aletlerin verdiği görüş referansı, vertigonun etkilerinden kurtulmada en önemli 
+anahtardır. Sık sık alet ref eransından görüş referansına, görüş referansından alet referansına 
+geçilmemelidir. Aletler çapraz kontrole (cross-check) alınmalıdır. 
+b) Aletlere Güven:  Pilot, vücut tarafından algılanan inandırıcı yanlış hisleri kontrol edebilmeyi ve 
+üstesinden gelebilmey i; spatial disoryantasyon semptomlarının etkilerini aletlere konsantre olmak 
+suretiyle azaltmayı öğrenmelidir. 
+c) BaĢını Arkaya Daya:  Baş hareketlerini minimuma indirmek ve sabit derin duyu tesis etmek, 
+vertigonun etkilerini azaltarak kurtulma zamanını hızlandırır. 
+d) Düz ve Ufki UçuĢa Geç :  Vertigo olduğunu fark eden pilot alet referanslarına uygun olarak düz ve 
+ufki uçuş durumuna geçmeli ve tam oryantasyon tesis edilerek his yanılgılarını minimum seviyeye 
+indirinceye kadar mecbur kalmadıkça manevra yapmaktan kaçınmalıdır. 
+e) Çift Kumanda Uçaklarda Kontrolü Diğer Pilota Devret :  Kontrolü diğer pilota devrettikten sonra 
+oryantasyonu tekrar tesis edebilmek için intibakını sağlamalı, ancak ondan sonra tekrar kontrolü 
+devralmalıdır. Eğer uçak oto pilot kumandalıysa derhal devreye sokulmalıdır. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+THY A. O. UÇUġ EGĠTĠM AKADEMĠ MÜDÜRLÜĞÜ  
+EĞĠTĠM DÖKÜMANI 
+ 
+Doküman No ED.72.UEA.HHD 01 
+Revizyon Tarihi 24.04.2008 
+Sayfa No 18/44 
+ 
+ 
+THY KYS Form No: FR.18.0001 Rev.01 
+BÖLÜM 5 
+ĠġĠTME SĠSTEMĠ 
+ 
+5.1. ĠġĠTME SĠSTEMĠ 
+Veri aldığımız diğer ana bir yol, kulaklardır ya seslerle (duyma) yada stibular sistemle (denge). Beynimiz 
+görsel bilgileri karıştırabilir öyle ki biz yi görmek istiyorsak onu görürüz, aynı şekilde neyi duymak 
+istiyorsak onu duyduğumuz da doğrudur. 
+ 
+ 
+ 
+ġekil: 1.8 
+ 
+a) Kulağın yapısı :  Ani hava basıncı değişimleri niteliğindeki ses dalgaları kulak zarını titreştirir, zarın 
+titreşimi orta kulaktaki kemikcikleri har ekete geçirir, bu da iç kulak membranı ve koklea yoluyla işitme 
+sinirlerinde uyarıma yol açar. 20 -20.000 Hz. arası  tonlar insan kulağı tarafından işitilebilir. Yüksek 
+frekanslı seslere bağlı işitme kayıpları erkeklerde kadınlara göre daha çoktur (Şekil:1.8).  
+ 
+b) ĠĢitme kayıpları: Pilotların ciddi sağlık sorunlarından birisi olan işitme kayıpları ya yüksek tonlardaki 
+seslerden veya sesin kafatası ve korti organında yarattığı vibrasyon sonucu oluşur. Şüphesiz burada ses 
+ve vibrasyonun şiddeti, süresi ve tek rar sıklığı büyük önem taşır. Silah atışlarında ortaya çıkan 130 -150 
+db ses şiddeti ağrı verir, bu düzeyin 1 saat devam etmesinde kalıcı işitme kaybı olur. 80 -85 db, kulak 
+tıkacı kullanmayı gerektiren sınırdır. Bazı uçaklarda uzun süreli bu düzeydeki gürül tüler risklidir. Bu 
+nedenle 40 db düzeyinde gürültü olan uçaklarda koruyucu teçhizat kullanılmasının uzun vadede yararı 
+vardır.  
+ 
+c) ĠĢitmede yön ve mesafe algısı: Kulağın  işittiği sesin niteliklerine göre beyinde yorumlanmasıyla, 
+sesin yönü ve mesafesiyle  ilgili tahmin yapılabilir. Bu konuda sesin şiddeti ve frekansı kadar, iki kulakla 
+duymanın avantajları doğru tahminde yararlı olur. Hafif sesler uzaktan geliyor izlenimi yaratırsa da, 
+yakından gelen hafif seslerden olan frekans ve ton farkını kulak ayırt edebilmektedir. Sesin yönü ise, iki 
+kulağın farklı algılarının beyinde işlenmesiyle belirlenir.  
+İşitme kayıplarının olduğu veya ses kaynağının süratle hareket ettiği durumlarda işitsel yanılgılar 
+görülebilir (audiogyral illüzyon). Daha önce denge ve oryan tasyon konusunda kulağın Anatomi ve 
+Fizyolojisinden bahsedilmiş, ancak işitme bölümüne değinilmemişti. Ses dalgaları, dış kulaktan orta 
+kulağa ve oradan da esas işitme organı olan iç kulağa geçerek Cohlea'da (Cohlea içindeki Corti 
+organında) algılanırlar. Ses dalgaları Corti organına 3 yolla gelebilir. 
+ 
+ 
+ 
+THY A. O. UÇUġ EGĠTĠM AKADEMĠ MÜDÜRLÜĞÜ  
+EĞĠTĠM DÖKÜMANI 
+ 
+Doküman No ED.72.UEA.HHD 01 
+Revizyon Tarihi 24.04.2008 
+Sayfa No 19/44 
+ 
+ 
+THY KYS Form No: FR.18.0001 Rev.01 
+ 
+5.2. VESTĠBÜLER SĠSTEM 
+Oryantasyon mekanizmamızdaki ikinci en önemli faktör denge ve hareket hissimizdir ve bu iç kulaktaki 
+(vestibuler sistem) otolit organ ve yarım daire kanalları tarafından sağlanır (Bu k onu bölüm 3 te detaylı 
+olarak incelenecektir).  
+Uçuştaki pilot inkapasitasyon (incapacitation) genel bir sebebi ve hareket hastalığının (motion sickness) 
+ana sebebini oluşturan, görsel ve denge duyularımızdan gelen bilgilerin çatışmasıdır. Disoryantasyon, 
+gözlerimizin bize söylediği ile vestibuler sistemin bize söylediği arasındaki çelişki, hepimizin, en fazla 
+tecrübesi olanların bile başına gelebilir. Disoryantasyon yalnızca tedirginlik yaratmaz, özellikle yalnız 
+uçuşlarda oldukça tehlikelidir. Pilotun dis oryante (vertigo) olması nedeniyle birçok kaza meydana 
+gelmiştir. Bu açıklama ışıksız bir ada sahiline gece yalnız uçan bir pilota aittir:   
+Stres, dikkat dağıtıcılar, alkol ve ilaçlar, ani baş hareketleri ve nezle iken uçmayı kapsar. Bulut, sis, pus, 
+gece gibi düşük görüşte uçarken disoryantasyon için yukarıdakilerin hepsine hazırlıklı ve tetikte 
+olunmalıdır.  
+ 
+5.3. ORTA KULAKTA BASINÇ DEĞĠġĠKLĠKLERĠ 
+(a) TırmanıĢta : Orta kulakta hacmi genişleyip basıncı azalan hava, kulak zarını, basınç farkı 15 mmHg.' 
+ya ulaşıncaya kadar dışa doğru bombeleştirir, bu anda küçük bir miktar hava östaki kanalından dışarı 
+atılır ve kulak zarı tekrar normal biçimine döner. Bu küçük miktardaki hava östaki kanalına doğru 
+atılmadan hemen biraz önce kulakta bir dolgunluk hissi yar atır ve basınç boşaldığında da genellikle bir 
+''klik'' sesi duyulur (Şeki: 1.9). 
+ 
+(b) AlçalıĢta: Ġrtifa  kaybetme esnasında 
+orta kulaktaki basınç eşitlenmesi otomatik 
+olarak yapılamaz ve bu nedenle de bir 
+güçlük hissedilebilir. Östaki kanalı doğal 
+olarak ha vayı dışarı kolayca boşaltabilen, 
+fakat içeri hava girişini zorlaştıran bir valf 
+gibi çalışma özelliğine sahiptir. İrtifa 
+kaybetme sırasında barometrik basınçta 
+artma sonucu dış hava basıncı orta 
+kulağın içinde bulunan hava basıcının 
+üzerine çıkar ve bu de fa kulak zarı içeriye 
+doğru çökmeye zorlanır (Şekil: 1.9). 
+                                 
+                                                                           ġekil:1.9 
+ 
+Eğer basınç farkı belirgin bir yüksekliğe ulaşırsa, östaki kanalının açılması imkansız olabilir. Böyle bir 
+durumda oldukça şiddetli bir ağrı duyulur ve muhtemelen kulak zarında konjesyon veya yırtılmayla 
+sonuçlanabilir. 
+18.000 feet' den deniz seviyesine alçalışta 0.5 atmosferlik bir basınç farkıyla karşılaşılır, yani bu 
+durumda kulak zarı 380 mmHg' Iık bir basınç artışına maruz kalır. Bu eşitlenmeyen basınç farkı kulak 
+zarını yırtabilir. Kulak zarı yırtıldığı zaman eğer enfeksiyondan korunur ve temiz tutulursa, genellikle kısa 
+bir sürede işitme düzelir ve kalıcı işitme kaybı olmaz. 
+Dalış sırasında yutkunma, esneme veya boğaz kaslarını germe hareketleri kolayca yapılabildiğinden 
+basınç eşitlenmesinde herhangi bir güçlük çekilmez. Bu hareketler her 1.000 feet alçalışta aralıklı olarak 
+yapılmalıdır. Bu yöntem östaki kanalının ağzını açan  gırtlak kaslarının kasılmasını sağlar. Eğer bu 
+manevralarla rahatlık sağlanamazsa, ağzı ve burnu kapatarak orta kulağa hava göndermek gerekir. 
+Böylece kapalı olan östaki borusuna basınç uygulanarak orta kulağa gönderilen hava, basınç 
+eşitlenmesine yardım eder; bu işleme Valsalva manevrası denir. 
+ 
+(c) GecikmiĢ Kulak Tıkanıklığı :  İrtifada ve özellikle alçalışta % 100 oksijen soluyan uçucularda inişten 
+2-6 saat sonra kulak rahatsızlığı görülebilir. Eğer böyle bir kişi uyumuşsa bile kulak ağrısı onu 
+
+ 
+ 
+ 
+THY A. O. UÇUġ EGĠTĠM AKADEMĠ MÜDÜRLÜĞÜ  
+EĞĠTĠM DÖKÜMANI 
+ 
+Doküman No ED.72.UEA.HHD 01 
+Revizyon Tarihi 24.04.2008 
+Sayfa No 20/44 
+ 
+ 
+THY KYS Form No: FR.18.0001 Rev.01 
+uyandıracak şiddette olabilir. Bu durum orta kulağın oksijeni absorbe etmesinden ve orta kulakta az da 
+olsa bir vakum yaratmasından dolayı meydana gelir. 
+ 
+(d) Barotitis Media :  Barometrik basınç değişikliği esnasında kulaktaki basınç eşitlenmesi yapılmadığı 
+zaman b arotitis media veya ear blok denilen kulak tıkanması durumu meydana gelir. Nedeni, kulak 
+zarının her iki tarafındaki basınç farkının oluşturduğu akut veya kronik kulak travmasıdır. Bu durum kan 
+toplanması, ödem ve ağrı ile sonuçlanır ve genellikle de geçici ve daimi işitme kaybına neden olabilir. 
+Uçucuların en yoğun sübjektif şikayetleri, orta kulağı uygun bir şekilde havalandıramamaktan 
+kaynaklanan kulak rahatsızlığıdır. Bu durum üst solunum yolları iltihabı, boğaz ağrısı, orta kulak iltihabı, 
+sinüzit nede niyle östaki kanalının normal görevini yapamamasından dolayı meydana gelir. Östaki 
+kanalının hava basıncı uygulanarak açılması sırasında, havanın içinde bulunan enfeksiyon materyalinin 
+de orta kulağa geçmesi ve buranın iltihaplanması olasıdır. Soğuk algınl ığı ve boğaz ağrısı olan uçucular 
+uçuş doktoru tarafından müsaade edilmedikçe uçmamalıdırlar. Kendi kendine ilaç kullanma durumu ise 
+asla doğru değildir. Eğer inişten sonra basınç eşitlenmesi sağlanmazsa, uçuş doktoru genellikle 
+dekonjestan maddeler içeren spray veya burun damlası kullanmak suretiyle bu durumu düzeltebilir.  
+ 
+5.4. GÜRÜLTÜNÜN ĠġĠTME ÜZERĠNDEKĠ ETKĠLERĠ: 
+Gürültü, işitmeyi zedeleyebilir, muhabereyi karıştırabilir ve arzu edilmeyen işitme bozukluklarını meydana 
+getirebilir.  
+ 
+(a) Gürültünün iĢitme Üzerindeki Kötü Etkileri: 
+Gürültünün işitme üzerindeki kötü etkilerinin önceden belirlenebilmesi çok güçtür .Bu durum hem çok 
+yüksek veya Ultrasonik (20.000 Hz üzeri), hemde çok alçak ve İnfrasonik (20 Hz altı) ses frekanslarından 
+meydana gelebilir. İl ave olarak işitme mesafesi içerisinde (20 den 20.000 Hz'e) akustik enerji vardır. 
+Düşük şiddetteki sesler; zihin karışıklığına ve rahatsızlığına sebep olabilir. Uyarlılık, Adaptasyon, görevin 
+karışıklığı ve alışkanlık bu tesirleri değiştirir.  
+140 db den y ukarı yüksek şiddetteki seslere maruz kalındığında korunma yetersizliğinden dolayı 
+disoryentasyon, bulantı ve kusma meydana gelebilir. 
+130 db civarındaki ses şiddeti, korunmamış kulaklarda kulak ağrısına sebep olabilir. Kulak koruyucusu 
+kullanılmaksızın 150 db veya daha yüksek şiddetteki gürültülere hiç bir personel maruz kalmamalıdır. 
+Gürültünün işitme üzerindeki kötü etkilerinden en önemlisi, maskelenen veya seslerin birbirine karıştığı 
+seviyelerdeki mevcut gürültünün içinde konuşmaları anlamak zorunda ka lan şahıslarda genel 
+yorgunluğun meydana gelmesidir. 
+ 
+(b) Kulak Hasarı : 
+Gürültünün hiç bir zaman arzu edilmeyen etkisi daimi işitme hasarıdır. Bu hasar, gürültü çok şiddetli 
+olduğu zaman ani olabilir fakat çoğu zaman gürültünün sebep olduğu işitme kaybı y avaştır ve daha 
+düşük şiddetteki tekrar eden gürültülere maruz kalma sonucu gizlice meydana gelir. 
+ 
+1 ) Geçici iĢitme kaybı (Temporary Threshold Shift- TTS): 
+Gürültüye aşırı maruz kalma neticesi işitmenin azalması durumuna geçici işitme kaybı veya TTS deni r. 
+Bu durum gerçekte çoğu kez işitme sağırlığı ve kulakta ağırlık olarak herkes tarafından algılanmış ve 
+tecrübe edilmiştir. 
+ 
+2) Daimi iĢitme kaybı (Permenant Threshold Shift - PTS): 
+İç kulaktaki sinir lifleri tahrip olduğu zaman meydana gelen işitme kaybı , daimi işitme kaybı (PTS) olarak 
+tarif edilir. Bu sinir hücreleri kendi kendilerini yenileyemezler. 
+ 
+5.5. GÜRÜLTÜDEN KORUNMA 
+a) Gürültüyü Azaltmak : 
+Şüphesiz bir gürültü probleminin çözümü, gürültüyü yok etmek veya önemsiz bir seviyeye düşürmektir. 
+ 
+b) Kulak Korunması : 
+ 
+ 
+ 
+THY A. O. UÇUġ EGĠTĠM AKADEMĠ MÜDÜRLÜĞÜ  
+EĞĠTĠM DÖKÜMANI 
+ 
+Doküman No ED.72.UEA.HHD 01 
+Revizyon Tarihi 24.04.2008 
+Sayfa No 21/44 
+ 
+ 
+THY KYS Form No: FR.18.0001 Rev.01 
+Gürültünün zararlı etkilerinden kulağı koruyabilecek nitelikte çok çeşitli cihazlar mevcuttur. Bunlar; Kulak 
+tıkaçları (ear plugs), koruyucu kulaklıklar (ear muffs), muhabere kulaklıkları ve uçuş kasklarıdır.  
+Kulağa iyi uymuş bir kulak tıkacı (ear plug), en fazla 115 db SPL ve altındaki gürültü seviyelerinde yeterli 
+koruma sağlar ve 200 den 4800 Hz'e olan mesafelerde 20-25 db gürültü azalması sağlar.  
+115 db SPL nin üzerindeki yüksek gürültü durumlarında, kombine edilmiş kulak koruyucuları kullanmak 
+en iyi çözüm yoludur. Örneğin; Koruyucu kulaklık ile kulak tıkacı birlikte kombine edildiği zaman yaklaşık 
+300-4800 Hz arası frekanslarda 40 -60 db gürültü azalması sağlayan ve fiziki olarak rahatsızlık 
+çekilmeyen maksimum kulak koruması temin edilir. 
+ 
+5.6. VESTĠBÜLER ĠLLÜZYONLAR: 
+a) Lean (yatıĢ) Hissi : Vestibüler yanılmaların en çok karşılaşılan tiplerinden birisidir ve birkaç şekilde 
+meydana gelebilir. Eğer bir pilot yarım daire kanallarının algılama eşiğinin altında sola doğru bir yatış 
+yapmışsa (Mulder kanununa göre saniyede 2,5° nin altında) ve durumu aletlerinden fark ederek algılama 
+eşiğinin üzerinde (saniyede 2.5° den fazla) bir kumandayla bu yatışı düzeltmişse, uçağı düz uçuşa 
+geçtiği halde kendini sağa doğru yatışlı hisseder. Bunu düzeltm ek için tekrar ilk yatış tarafına yani sola 
+doğru yatış kumandası verebilir. Bunun nedeni eşik altı yapılan ilk yatışın algılanmamış, olması ve 
+sadece düzeltme kumandasının algılanmış olmasıdır. 
+Lean hissi yukarıda bahsedilen şeklin aksi olarak da meydana gelebilir. Eğer bir pilot algılama eşiğinin 
+üzerinde sola doğru bir yatış yapmış ve bu yatışı hissetme eşiğinin altında tatlı bir şekilde yavaşça 
+düzeltmişse, uçağı düz ve ufki uçuşa geçtiği halde kendini hala sola doğru yatışlı zannedebilir. Bu hissi 
+düzeltmek için kumanda verdiğinde de uçağını aksi tarafa doğru, yani sağa doğru yatışa sokabilir. Yine 
+buna sebep, eşik altı yapılan düzeltme hareketinin algılanmamış olması ve sadece eşik üstü yapılan ilk 
+yatışın algılanmış olmasıdır.  
+Diğer bir lean yanılmas ı da, uzayan bir dönüşten çıkışta yarım daire kanallarının bu dönüşü unutması 
+sebebiyle meydana gelebilir. Şöyle ki; kaide dönüşü gibi uzayan bir dönüşe girildiğinde ilk anda bu dönüş 
+algılanır fakat tahmini 20 sn. sonra cupulanın tekrar dik duruma geçmesi  sebebiyle artık dönüş unutulur. 
+Dönüşten çıkış kumandası verildiğinde ise meydana gelen akselerasyonun yeni bir hareket olarak 
+algılanması ve cupulanın aksi istikamette, yatması yüzünden ters tarafa dönüşe girilmiş hissi alınır. 
+Eğer pilot, durum cayrosu düz uçuş gösterdiği halde, yukarıda bahsedilen şekillerde kendini yatışlı 
+hissediyorsa, iki seçenekten birisini yapacaktır. Ya uçağını düz uçuştan hayalindeki yatış hissine göre 
+yatışa geçirecek veya durum cayrosuna güvenerek düz ve ufki uçuşta kalacaktır .Eğer ikinci şıkkı 
+yapacak olursa (ki şüphesiz doğrusu budur), vücudunu hayalindeki his yanılmasına uygun bir şekilde 
+büker ve bu bükülme, hissetme eşiğinin altında yapılan yatış tarafına olur. Vücudun bu bükülme 
+hareketine hence denilir.  
+Oluşan angular h areketin algılanması için Mulder sabitesinin aşılması gerektiğinden bahsedilmişti. Bu 
+tamimiyle kesin bir kural sayılmaz ve angutlar akselerasyonların algılanma eşiği vibrasyon, gürültü, 
+dikkatsizlik vb. gibi faktörler tarafından yükseltilebilir. Keza bir uçucu için vestibüler bilgilerin algılanma 
+eşiği kişisel farklılıklara bağlı olarak da değişir. Örneğin; eğer bir pilot anormal bir türbülansa maruz 
+kalmışsa, oryantasyon bilgilerini düzenlemeye çalışan vestibüler eşik, refleks olarak çok kritik olacaktır.  
+Yine seri dönüşler (Tono vs.) esnasında his düzenleyiciler, durum hakkında yanlış intibalara sahip 
+olabilirler. 
+ 
+b) Koriolis illüzyon:  Yarım daire kanalları sabit bir angular hıza dengelendiğinde baş hareketleri 
+yapıldığı zaman meydana gelen bir his yanıl masıdır. Eğer bir pilot uçağını kaide dönüşü veya bekleme 
+paterni gibi sabit dereceli uzayan bir dönüş manevrası yaptırırsa, şüphesiz sabit bir angular 
+akselerasyona maruz kalacaktır. Böyle bir durumda dönüşün başlamasıyla birlikte harekete geçmiş olan 
+endolenf sıvısı yaklaşık olarak 20 sn. sonra kanal duvarıyla eşit sürate erişir ve artık hiç bir dönüş hissi 
+alınmaz. Eğer bu anda baş bir tarafa doğru hareket ettirilirse, dönüş düzlemi içerisindeki yarım daire 
+kanalları denge halinden çıkarlar ve başın yeni  hareket düzlemi içerisindeki kanalların içindeki endolenf 
+sıvısı kısa bir süre içerisinde harekete geçer. Bu suretle uçağın dönüş düzlemi içinde olmayan başka bir 
+kanal devreye girmiş olur. Yeni harekete geçen kanal içindeki endolenfin hızı da kanal duvar larının 
+hızına hemen erişemeyeceğinden kanal içindeki cupula, endolenfin akış istikametine doğru yatar. 
+Böylece gerçekte dönüş yapılmayan bir düzlemde dönüş yapıldığı hissi alınır. Pilot bu yanıltıcı hareketi 
+ 
+ 
+ 
+THY A. O. UÇUġ EGĠTĠM AKADEMĠ MÜDÜRLÜĞÜ  
+EĞĠTĠM DÖKÜMANI 
+ 
+Doküman No ED.72.UEA.HHD 01 
+Revizyon Tarihi 24.04.2008 
+Sayfa No 22/44 
+ 
+ 
+THY KYS Form No: FR.18.0001 Rev.01 
+düzeltme kumandası verdiğinde de şüphesiz uçağı n kontrolünü kaybeder ve çok tehlikeli durumlara 
+düşebilir. 
+Koriolis illüzyon, kaide dönüşü ve atıştan çıkışlar gibi genellikle alçak irtifalarda yapılan manevralarda 
+meydana geldiği ve kesinlikle ikna edici olduğu için vestibüler yanılmaların en tehlikeli  olanıdır. Özellikle 
+kaide dönüşü gibi durumlarda telsiz frekansını değiştirmek icap ettiğinde pilotun frekans seçiciye de 
+bakmak için başını çevirdiği durumlar en riskli durumlardır. Böyle bir baş hareketi yatış veya tono hissinin 
+meydana gelmesine yol aç tığından alçak irtifada yüksek performanslı uçaklarda genellikle çakılmayla 
+sona erer.  
+ 
+c) Okülogravik Ġllüzyon (OGĠ's):  Kural olarak denilebilir ki, okülogravik illüzyon, Iineer akselerasyona 
+maruz kalınan bir çevrede görüş alanındaki cisimlerin yer deği ştiriyormuş gibi görünmesi olayıdır. Ancak 
+bu sadece bir görüş yanılması olayı değil, aynı zamanda vücut üzerine etki eden inertia (eylemsizlik) 
+kuvveti ile yerçekimi kuvvetinin bileşkesi sonucunda otolit organın vücut durumunu yanlış algılaması 
+olayıdır. Vücudumuz, kendi üzerine etki eden değişik tipteki büllin lineer akselerasyonları beyine 
+iletebilecek kapasitedeki his organları ile donatılmıştır. Biz ancak G vektörünün büyüklüğü ve istikameti 
+hakkında bilgi verebilen otolit organa (utrikul -sakkul' e) s ahibiz; otolit organ da yerçekimi kuvveti ile 
+vücut üzerine etki eden diğer Iineer akselerasyonları ayırt edebilme yeteneğinden yoksundur. 
+Okülogravik illüzyon denilen his yanılgısı da bu nedenle oluşmaktadır. 
+Yerde 1G ' Iik yerçekimi vektörü doğrultusunun  aksi istikametinde dikey doğrultuda, yani ayakta durur 
+pozisyonda olduğumuzu bilebiliriz. Havada ise, G vektörünün istikameti, her zaman yerde olduğu gibi yer 
+çekimi vektörü doğrultusunda olmaz. Örneğin; eğer bir pilot uçağına 32.2 feet/sn² 'lik (980 cm/s n²) bir 
+akselerasyon kazandırırsa  1G' Iik inertia vektörü meydana gelir. 1G' Iik yerçekimi vektörü, 1G' Iik inertia 
+vektörü ile birleştiğinde 1.414 G' Iik sonuç vektör oluşur ve bu sonuç kuvvet de otolitik kılların belli bir 
+oranda geriye doğru yatmasına neden olu r. Sonuçta pilot, uçağın burnunu normalden 45° yukarıya 
+tırmanıyormuş gibi olduğunu algılar. Pilot uçağındaki bu yalancı tırmanış hissi' ni düzeltmek amacıyla, 
+uçağı 45° 'lik bir açı ile dalışa geçirecektir. Halbuki uçak düz uçuştadır ve göstergeler de bun u 
+doğrulamaktadır ama pilotun hisleri daha baskın çıkmaktadır. Okülogravik illüzyon, eğer uygun bir dış 
+görüş referansı mevcutsa meydana gelmez. Eğer pilot bulut içi veya tam gece uçuş şartlarında 
+uçuyorsa, bu tür illüzyona çok hassastır. Bir çok pilot gec e ışık olmayan bölgeler üzerinde ve denize 
+doğru kalkışlarda okülogravik illüzyon yüzünden tam gazla çakılarak yaşamlarını kaybetmişlerdir. 
+Yalancı dalış hissi ise, pike flabı, gaz kesme veya diğer sürat azaltıcı faktörlerin meydana getirdiği 
+deselerasyon ile vuku bulur. Fakat bu tür yanılmanın şimdiye kadar tehlikeli bir durum yarattığı rapor 
+edilmemiştir.  
+ 
+d) Elevatör Ġllüzyon :  Pilotun maruz kaldığı yerçekimi kuvvetinin uzunluğunda bir artma olduğu zaman 
+(örn; türbülanslı havalarda uçak aniden yükseldiğ inde) meydana gelen yukarı akselerasyon sırasında 
+çevrede bir görüş fiksasyonu sağlamaya yarayan beyindeki vestibülo -oküler refleksler, gözü 
+kompensatuar (telafi edici) olarak aşağı doğru hareket ettirir. Bu durumda pilotun tam karşısındaki borda 
+paneli de  gözlerin bu aşağı hareketinden dolayı yukarıdaymış gibi görünür. Bu da pilotu uçak 
+tırmanıyormuş gibi yanılgıya düşürür (Şekil:1.10). 
+ 
+ġekil:1.10 
+ 
+ 
+ 
+ 
+THY A. O. UÇUġ EGĠTĠM AKADEMĠ MÜDÜRLÜĞÜ  
+EĞĠTĠM DÖKÜMANI 
+ 
+Doküman No ED.72.UEA.HHD 01 
+Revizyon Tarihi 24.04.2008 
+Sayfa No 23/44 
+ 
+ 
+THY KYS Form No: FR.18.0001 Rev.01 
+Elevatör illüzyon bu durumun tam tersi olarak da meydana gelebilir. Pilota etki eden yerçekimi kuvvetinin 
+vektörü azaldıkça ve sıfır G' ye yaklaştıkça gözler bu aşağı doğru akselerasyonu telafi için derhal yukarı 
+doğru hareket eder. Bu da pilotun gözü önündeki objelerin (borda panelinin) aşağı doğru kayıyormuş gibi 
+görünmesine; dolayısıyla uçağın sanki dalışa g eçiyormuş gibi algılanmasına yol açar. İşte, yakındaki 
+çevrenin bu şekilde yukarı -aşağı hareket ediyormuş gibi görünmesiyle karakterize, yalancı tırmanış ve 
+dalış hissine elevatör illüzyon denir (Şekil: 1.11). 
+ 
+ġekil: 1.11 
+ 
+Okülogravik ve elevatör illüzyo nları bilhassa görüş referanslarının kısıtlı olduğu havalarda denize veya 
+göle kalkışlar, türbülanslar veya pas geçişler esnasında meydana gelir. Fakat bu tür illüzyonlar iyi dış 
+görüş referansları olduğu zaman bastırılabilir. 
+ 
+e) Okulogiral Ġllüzyon (OGY)  : Bir birey ve bir cisim, (pilot ve uçağı) birlikte bir angular harekete 
+girdiklerinde, bireyin gözü önündeki objelerin izafi (ters yönde) hareket ediyormuş gibi görünmesi 
+yanılgısına okülogiral illüzyon denir. Bu durum viril, spiral ve buna benzer hareke tler esnasındaki koriolis 
+uyarılarında kokpit içinden kolayca gözlenebilir. 
+Buna benzer bir olay olan odiogiral illüzyon ise, bir kişi ve bir ses kaynağı birlikte bir angular 
+akselerasyona maruz kaldıklarında, ses kaynağının kişiye göre izafi hareket ediyo rmuş gibi görünmesi 
+olayıdır. Okülogirar ve odiogiral illüzyonlar şüphesiz yarım daire kanallarının uyarılması sonucunda 
+meydana gelir. Fakat bu yanılgıların gelişmesine neden olan mekanizmalar kesin olarak bilinmemektedir  
+ 
+f) Alternobarik iIIüzyon: Vestibüler sistemin, neuronitis ve Menier hastalığı gibi vertigoya neden olan 
+gerçek tıbbi hastalıkları da vardır. Bu patolojik durumlar spatial disorientation konusu içinde 
+incelenmektedirler. Alternobarik vertigo denilen bu patolojik durumlar genellikle üst s olunum yolları 
+enfeksiyonu olan uçucularda sık sık görülür. Bu durum tırmanma, alçalma veya valsalva manevrası 
+esnasında kapalı olan östaki borusunun aniden açılması ile iç kulağa basınç yapılması ve bu basınç ile 
+iç kulak sıvısının, dolayısıyla otolit org anın ve cupulalanın mekanik olarak uyarılması sonucu meydana 
+gelen mide bulantısı, kusma, baş dönmesi ve viril hissi gibi belirtilerle kendisini gösteren bir illüzyondur. 
+ 
+5.7. VESTĠBÜLER SĠSTEM 
+Oryantasyon mekanizmamızdaki ikinci en önemli faktör denge ve  hareket hissimizdir ve bu iç kulaktaki 
+(vestibuler sistem) otolit organ ve yarım daire kanalları tarafından sağlanır. (Bu konu bölüm 3 te detaylı 
+olarak incelenecektir).  
+Uçuştaki pilot inkapasitasyon (incapacitation) genel bir sebebi ve hareket hastalığı nın (motion sickness) 
+ana sebebini oluşturan, görsel ve denge duyularımızdan gelen bilgilerin çatışmasıdır. Disoryantasyon, 
+gözlerimizin bize söylediği ile vestibuler sistemin bize söylediği arasındaki çelişki, hepimizin, en fazla 
+tecrübesi olanların bile başına gelebilir. Disoryantasyon yalnızca tedirginlik yaratmaz, özellikle yalnız 
+uçuşlarda oldukça tehlikelidir. Pilotun disoryante (vertigo) olması nedeniyle birçok kaza meydana 
+gelmiştir. Bu açıklama ışıksız bir ada sahiline gece yalnız uçan bir pilota aittir.   
+ 
+ 
+ 
+THY A. O. UÇUġ EGĠTĠM AKADEMĠ MÜDÜRLÜĞÜ  
+EĞĠTĠM DÖKÜMANI 
+ 
+Doküman No ED.72.UEA.HHD 01 
+Revizyon Tarihi 24.04.2008 
+Sayfa No 24/44 
+ 
+ 
+THY KYS Form No: FR.18.0001 Rev.01 
+Stres, dikkat dağıtıcılar, alkol ve ilaçlar, ani baş hareketleri ve nezle iken uçmayı kapsar. Bulut, sis, pus, 
+gece gibi düşük görüşte uçarken disoryantasyon için yukarıdakilerin hepsine hazırlıklı ve tetikte 
+olunmalıdır. 
+ 
+ 
+ġekil: 1.12 
+ 
+5.8. Spatial Disoryantasyon'u Önlemek Veya Yenmek: 
+Vertigo olduğunu anlayan bir pilotun alması gereken standart önlemler şu şekilde sıralanabilir; 
+ 
+a) Alet UçuĢuna Geç: Aletlerin verdiği görüş referansı, vertigonun etkilerinden kurtulmada en önemli 
+anahtardır. Sık sık alet referansından görüş referansına, görüş referansından alet referansına 
+geçilmemelidir. Aletler çapraz kontrole (cross-check) alınmalıdır. 
+ 
+b) Aletlere Güven: Pilot , vücut tarafından algılanan inandırıcı yanlış hisleri kontrol edebilmeyi ve 
+üstesinden gelebilmeyi; spatial disoryantasyon semptomlarının etkilerini aletlere yoğunlaşmak suretiyle 
+azaltmayı öğrenmelidir. 
+ 
+c) BaĢını Arkaya Daya: BaĢ  hareketlerini minimuma indirmek ve sabit derin duyu tesis etmek, 
+vertigonun etkilerini azaltarak kurtulma zamanını hızlandırır. 
+ 
+d) Düz ve Ufki UçuĢa Geç: Vertigo olduğunu fark eden pilot alet referanslarına uygun olarak düz ve 
+ufki uçuş durumuna geçmeli ve tam oryantasyon tesis edilerek his  yanılgılarını minimum seviyeye 
+indirinceye kadar mecbur kalmadıkça manevra yapmaktan kaçınmalıdır. 
+ 
+ 
+ 
+ 
+THY A. O. UÇUġ EGĠTĠM AKADEMĠ MÜDÜRLÜĞÜ  
+EĞĠTĠM DÖKÜMANI 
+ 
+Doküman No ED.72.UEA.HHD 01 
+Revizyon Tarihi 24.04.2008 
+Sayfa No 25/44 
+ 
+ 
+THY KYS Form No: FR.18.0001 Rev.01 
+e) Çift Kumanda Uçaklarda Kontrolü Diğer Pilota Devret: Kontrolü diğer pilota devrettikten sonra 
+oryantasyonu tekrar tesis edebilmek için intibakını sağlamalı, ancak ondan sonra tekrar kontrolü 
+devralmalıdır. Eğer uçak oto pilot kumandalıysa derhal devreye sokulmalıdır.                                                
+                                                               
+5.9.  UÇUġTA ORYANTASYON VE DĠSORYANTASYON  ''VERTĠGO'' 
+Birçok uçak kazaları, pilotların uçuşta çeşitl i his yanılgılarına maruz kalmaları ve bu yanılgıları 
+tanıyamamaları sonucunda meydana gelir. İstatistiklere göre ölümlü uçak kazalarının yaklaşık % 14' ü bu 
+his yanılgılarına bağlanmaktadır. 
+Terim olarak spatial disorientation; bir pilotun dünya sathına g öre pozisyonunu ve istikametini tam ve 
+bilinçli olarak tayin edememesidir (Osmanlıca ifadesiyle ''mekana intibaksızlık''). Bunun uçuş 
+jargonundaki karşılığı vertigo' dur.  (Vertigo' nun sözlük anlamı ise, baş dönmesidir.)  
+İnsanın denge ve oryantasyonu esas olarak 3 sistem tarafından temin edilir;  
+ 
+VESTĠBÜL (İç kulak denge organı), 
+ 
+PROPRlOCEPTIVE (derin hassasiyet, deri altı duyusu -The seat of the pants.) 
+ 
+GÖRÜġ Sistemi 
+ 
+ 
+ġekil:1.13 
+ 
+İnsan yeryüzünde yaşadığı sürece bu sistemler birbirleriyle eşgüdüm iç inde çalışırlar ve her 3 sistemin 
+oryantasyon hakkında beyine verdikleri mesajlar doğru ve uyumludur. Fakat insan, hava ve uzayın üç 
+boyutlu ortamında hareket halindeyken bazen bu denge organları yanılabilirler; bu yanılgılar (illüzyon) 
+sonucunda spatial disorientation (vertigo) meydana gelir. 
+ 
+5.10. DĠYET, EGZERSĠZ VE AġIRI ġĠġMANLIK  
+Aşırı şişmanlık, yüksek tansiyon, şeker ve gut hastalığını da içererek ve  zamanla kalp krizine yol 
+açabilecek çok çeşitli hastalıklara neden olabilir. Eklemlerdeki aşırı yük , kireçlenme sorunlarına sebep 
+olabilir. Aşırı şişmanlık tam olarak açıklanmamışken, vücut/kütle indeksi (BMI -Body Mass Index), ideal 
+kiloyu boy ile alakalandırmaktadır.  
+BMI, kiloyu boya bölerek eşitlemektedir. Normal bir BMI 21 ile 25 olarak ele alınmakt adır. 25 ile 30 
+arasındaki BMI şişman olarak düşünülmektedir ve 30'dan fazla BMI aşırı şişmanlığı temsil etmektedir.  
+ 
+ 
+ 
+ 
+ 
+ 
+THY A. O. UÇUġ EGĠTĠM AKADEMĠ MÜDÜRLÜĞÜ  
+EĞĠTĠM DÖKÜMANI 
+ 
+Doküman No ED.72.UEA.HHD 01 
+Revizyon Tarihi 24.04.2008 
+Sayfa No 26/44 
+ 
+ 
+THY KYS Form No: FR.18.0001 Rev.01 
+BÖLÜM 6 
+YAYGIN HASTALIKLAR VE UÇUġ ĠÇĠN SAĞLIK 
+ 
+6.1. YAYGIN HASTALIKLAR VE UÇUġ ĠÇĠN SAĞLIK 
+  
+ġekil: 1.14 
+ 
+Eğer sağlığınız hakkında şüpheleriniz varsa, hem siz hem de yolcularınız, eğer uçmazsanız, kazançlı 
+çıkacaktır. Uçuşla bağdaşmayan yaygın hastalıklara örnek; soğuk algınlığı ve mide-bağırsak yangısıdır. 
+Mide-bağırsak .yangısının belirtileri doktor tavsiyesindeki ilaçlarla bastırılabilir fakat bir pilot kendiliğinden 
+olan bir düzelme tamamlanana kadar uçmaya devam etmemelidir. 
+Kendi kendine ilaç alarak tedavi yapmayınız, tedavi görürken  hiçbir zaman uçuş doktorunun tıbbi onayı 
+olmadan uçmayınız. Bütün ilaçların yan etkileri vardır, çoğu da performansı etkilemektedir. 
+ 
+6.2. Tedavi ve UçuĢ : 
+Kazalar ve olaylar, pilotların uçuşta tıbbi olarak sağlıklı olmamalarının sonucunda meydana gelmiştir. 
+Soğuk algınlığı belirtileri, boğaz ağrıları, ishal ve diğer karınla ilgili rahatsızlıklar yerde küçük problemlere 
+neden olmalarına rağmen uçuşta, dikkati dağıtarak tehlikeli olabilirler. Aşağıdaki ilaçlar, normalde uçuşla 
+uyuşmayan ve geniş çapta kullanılan ilaçların bazılarıdır;  
+                                                                                
+a) Antibiyotikler; çeşitli penisilinler ve tetracyclinelar olarak pilotların performanslarını etkileyen kısa 
+süreli yada geciktirilmiş yan etkilere sahiptir. Daha da önemlisi bunların kullanımı genelde oldukça 
+şiddetli hastalığın varlığını göstermektedir ve alınan ilacın etkisinden ayrı olarak, hastalığın etkisi pilotun 
+uçuş için uygun olmadığı anlamına gelmektedir. 
+ 
+b) SakinleĢtiriciler, anti -depressantlar ve uyku ilaçları (yatıĢtırıcılar);  ani durumlarda karar verme 
+yeteneğini etkilemektedir. Bu gruptaki ilaçların kullanımına bağlı olarak reaksiyon gösterememe ölümcül 
+uçak kazalarına destek veren nedenler olmuştur. Bunları aldığınız zaman uçmamalısınız.  
+ 
+c) Kafein, amfetaminler;  uyanık kalmak için yada iştah açmak için kullanılan uyarıcı ilaçla rdır ve 
+bağımlılık yaparlar. Çeşitli ilaçlardan etkilenme bireyden bireye değişir fakat hepsi kişiye aşırı güven 
+vermesinden dolayı tehlikeye neden olabilir. Aşırı doz baş ağrısı, baş dönmesi ve zihinsel rahatsızlıklara 
+neden olur. Uçarken uyarıcı tabletle rin kullanımına izin verilmez. Aşırı kahve içmenin kalp ritimlerini 
+bozma (aritmi) gibi zararlı etkilerinin olduğu unutulmamalıdır. 
+ 
+d) Anti -histaminler; uyku verebilir. Bu ilaçlar yaygın olarak soğuk algınlığı tedavisinde, saman 
+nezlesinde, astım, alerjik hastalıkların tedavisinde kullanılır. Bu ilaçlar tablet şeklinde olabilir yada burun 
+ 
+ 
+ 
+THY A. O. UÇUġ EGĠTĠM AKADEMĠ MÜDÜRLÜĞÜ  
+EĞĠTĠM DÖKÜMANI 
+ 
+Doküman No ED.72.UEA.HHD 01 
+Revizyon Tarihi 24.04.2008 
+Sayfa No 27/44 
+ 
+ 
+THY KYS Form No: FR.18.0001 Rev.01 
+spreyi yada damlası şeklinde olabilirler. Çoğu durumlarda şartlar uçuşu kendiliğinden engelleyebilir, bu  
+yüzden tedavi gerekli ise, uzman tedavisine başvurulmalıdır. Uyk u verici olmayan modern ilaçlar doktor 
+tarafından verilebilir. 
+ 
+e) Yüksek kan basıncı ilaçları; bazen tansiyonun normalin altına düşmesine neden olabilir ve zihinsel 
+performansını düşürerek uçuşta kazaya neden olabilir. Eğer kan basıncı yüksek ise bu ilaçl ar pilotun 
+geçici olarak yerde kalmasını gerektirir. Uçuşa başlamadan önce tedavinin yeterli olup olmadığı uçuş 
+doktoruyla görüşülmelidir. 
+ 
+f) Anestezikler;  lokal, genel, diş ve diğer anesteziler yapılırken uçuşa tekrar başlayabilmek için bir 
+zaman geçmelidir. Bu süre değişimi bireyin durumuna bağlıdır. Fakat bir bölgesel anesteziyi takiben en 
+az 24 saat ve bir genel anesteziyi takiben en az 72 saat geçmelidir.  
+ 
+g) Analjezikler; etkili ağrı kesici ilaçlar performans üzerinde negatif etkilere sahip olabilirler. Herhangi bir 
+ağrı durumunda alınmaları uçuşa engel teşkil eder. Eğer herhangi bir ilaç alıyorsanız kendinize sırasıyla 
+şu üç soruyu sormalısınız: 
+ 
+      1) Kendimi uçmaya hazır hissediyor muyum? 
+      2) Gerçekten ilaç almam gerekiyor mu? 
+      3) Uçuş için yeteneğim ne olursa olsun ilacın yan etkisinin olup olmadığından emin olmak için, uçuş 
+öncesi en az 24 saat istirahat ederek, kişisel bir muhakeme ile bu ilaç tedavisi bana yapılmalı mı? Diye 
+sorulmalıdır. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+THY A. O. UÇUġ EGĠTĠM AKADEMĠ MÜDÜRLÜĞÜ  
+EĞĠTĠM DÖKÜMANI 
+ 
+Doküman No ED.72.UEA.HHD 01 
+Revizyon Tarihi 24.04.2008 
+Sayfa No 28/44 
+ 
+ 
+THY KYS Form No: FR.18.0001 Rev.01 
+BÖLÜM 7 
+BAROMETRĠK BASINÇ DEĞĠġĠKLĠKLERĠNĠN MEKANĠK ETKĠLERĠ 
+ 
+7.1. BAROMETRĠK BASINÇ DEĞĠġĠKLĠKLERĠNĠN MEKANĠK ETKĠLERĠ 
+a) Mide ve Bağırsaklarda HapsedilmiĢ Gazların GeniĢlemesi :  Hızlı atmosferik basınç azalmasında 
+en sık karşılaşılan semptom, gastrointestinal bölgedek i gazların genişlemesinden dolayı meydana gelen 
+rahatsızlıktır. Fakat bu rahatsızlık çoğu kişilerde alçak veya orta irtifalarda ciddi değildir. 25.000 feet' in 
+üzerindeki irtifalarda oluşan gaz genişlemesi ve şiddetli ağrı, kan basıncında refleks olarak bir düşüşe ve 
+baygınlığa sebep olabilir.  
+Mide ve bağırsaklarda normal olarak dış atmosferik basınca eşit bir basınçta değişik miktarda gaz 
+bulunur ve mide ve kalın bağırsaktaki gaz miktarının, ince bağırsaklardaki gaz miktarından daha çok 
+olduğu kabul edili r. Bu gazın ana kaynağı büyük miktarda yutulan hava ve az miktarda da midedeki 
+sindirim, fermantasyon, bakteriyel çürüme ve sindirimi yapılan yiyeceklerden ortaya çıkan gazlardır. 
+Gastrointestinal bölgedeki gazların içerisinde oksijen, karbondioksit, azot ve hidrojen sülfid bulunur. Bu 
+gazlar değişik oranlarda bulunmasına rağmen en büyük çoğunluk daima azot' dur. 
+Mide ve bağırsaklardaki gazlar irtifa ile genişledikçe, geğirme veya yellenme yoluyla dışarı atılmadığı 
+sürece çok rahatsızlık yaratırlar. Çok yük sek irtifalarda, indirim yollarındaki gazların genişlemesine bağlı 
+olarak diyafram yukarı kalkması sonucunda solunum güçlüğü meydana gelebilir. Başlangıçta deniz 
+seviyesinde 1lt. olan gaz vücuttan hiç atılmadığı varsayıldığında, 10.000 feet' te 1,5 lt., 30 .000'feet' te 4 
+lt., 40.000 feet' te 7.6 lt., 50.000 feet' te ise 17 Iitreye kadar genişler. 
+Yüksek irtifada gaz sancısıyla karşılaşan bir uçucuda solgunluk ve baygınlığın diğer belirtileri de 
+görülebilir ve bu gibi durumlarda rahatlık sağlanıncaya kadar %  100 oksijen solunarak irtifa 
+kaybedilmelidir. 
+Devamlı olarak yüksek irtifa uçuşuna çıkan uçucular genellikle kendilerine dokunan yiyeceklerden 
+kaçınmayı öğrenirler. Genel olarak gaz meydana getiren yiyecekler şunlardır; Soğan, lahana, çiğ elma, 
+turp, kuru fasulye, salatalık, kavun veya bunların diğer yiyeceklerle karıştırılmasıyla yapılan gıdalar. 
+Yüksek irtifa  görevinden önce fazla miktarda sıvı alınmasından ve özellikle karbonat ihtiva eden soda, 
+kola, gazoz gibi içeceklerden ve hava yutulmasını kolaylaştıran çiklet çiğnemekten de kaçınmak gerekir.  
+ 
+7.2. ALKOL 
+Dünya Sağlık Örgütünün (WHO) alkolizim ile ilgili açıklaması; alkolün aşırı kullanımı tekrarlandığında 
+bireyin fiziksel, ruhsal yada sosyal yaşamına zarar verme şeklindedir.  
+Alkolün aşırı kullanımına bağlı zarar, bağımlılığın gelişiminden önce ortaya çıkabilir. Alkolün maksimum 
+güvenli içimi erkekler için haftalık 21 ünite ve kadınlar için de 14 ünite olarak belirtilmektedir. 1 ünite, 
+normal 1 litrelik biranın yarısına yada bir kadeh şaraba eşitti r. Bu ölçüler şüphesiz alkolün binlerce yıldır 
+tüketildiği batı Hıristiyan toplulukları için olup, Türk insanı için tolerans daha aşağılardadır. Zarar 
+fizikseldir ve organları etkilemektedir (karaciğer,beyin, kalp ve diğerleri). 
+Alkolizmin bağımlılık belir tileri, etkilerin farkına varılmadan önce artan alımlar, ''gizli içmeler'', ''sabah 
+mahmurluğu'' (hangover) etkilerle birlikte titreme ve hafıza kaybını içermektedir. "Bireylerin içme 
+alışkanlıklarının eleştirilerine aşırı tepki bir başka klasik belirtidir". Bu durum tamamen kaçınmayla tedavi 
+edilebilir fakat başarılı bir tedavi, meslektaşların erken bir yardımı, acı çekende pozitif bir davranışı ve  
+profesyonel yaklaşımı gerektirmektedir. 
+Alkol, her yıl birçok sayıdaki uçak kazalarına neden olan faktördür araştırmacıların belirttiğine göre; her 
+100 mililitrelik kanda 40 miligramlık alkol, (İngiltere'nin yasal araba kullanma limitinin yarısı) basit bir 
+uçakta bile tecrübeli ve tecrübesiz pilotlar tarafından yapılan hataların önemli artışıyla sonuçlanmaktadır. 
+Bu alkolün miktarı, 1 litre biraya yada 1 duble sert içkiye eşittir. Alkol, saatte yaklaşık olarak 100 ml 
+kanda 15 mg oranda vücuttan atılmaktadır (saatte 1 üniteden daha da az). CAA 'nın tavsiyelerine göre, 
+pilotlar az miktarda alkol aldıktan sonra en a z 8 saat uçmamalıdırlar; eğer daha fazla miktar tüketildiyse 
+orantılı olarak daha fazla zaman uçmamalıdırlar. Şu unutulmamalıdır ki; alkol, iç kulakta ve kanın şeker 
+seviyesinde gecikmiş etkiler yapabilir. Sonraki safhalarda etkiler uzayabilir muhtemelen 2 4 saat) ve 
+disoryantasyon ve hareket hastalığında (motion sickness) kolayca etkilenmeyi arttırmaktadır. 
+ 
+ 
+ 
+ 
+ 
+THY A. O. UÇUġ EGĠTĠM AKADEMĠ MÜDÜRLÜĞÜ  
+EĞĠTĠM DÖKÜMANI 
+ 
+Doküman No ED.72.UEA.HHD 01 
+Revizyon Tarihi 24.04.2008 
+Sayfa No 29/44 
+ 
+ 
+THY KYS Form No: FR.18.0001 Rev.01 
+7.3. YORGUNLUK: 
+Yorgunluk; uyku eksikliği, fiziksel ve ruhsal stres ve sinirlilik sonucu oluşur. Bütün bu faktörlerin bir araya 
+gelmesiyle kronik yorg unluk hali ortaya çıkar. Aynı zamanda şiddetli ruhsal ve fiziksel aktivite, yüksek 
+gürültü ve ruhsal çöküntüde kronik yorgunluğa sebep olur. Bu türün süresi kısadır ve dinlenmeye kolayca 
+üstesinden gelinir. Yorgunluk uçuş performansımızı her yönden etkiler . Karar verebilme mekanizmamız 
+zayıflar ve özellikle, zaten iyi iletişim kuramadığımız insanlarla çalışmamız iyice zorlaşır, dikkatimiz 
+azalır, pisikomotor kabiliyetlerimiz düşer, konsantre olmakta zorlanırız. Hareketlerimiz yavaşlar, kısa 
+vadeli hafızamızın kapasitesi azalır ve mental anlamda dar görüşlü olmaya başlarız.  
+Uykunun birincil amacı vücudumuzu dinlendirmek ve hafızamızı güçlendirmektir. Tipik bir insan 8 saat 
+uyku ve 16 saat aktivite için programlanmıştır. Ama uyku prensipleri insandan insana değişir. Havacılıkta 
+her zaman düzenli bir uyku paternimizin olması zordur. Bir gecelik uykumuzu tam almamak bizi 3 gün 
+boyunca etkileyebilir.  
+ 
+7.4. DIYET VE SAGLIK 
+Vücudumuza nasıl davrandığımız kendi sorunumuzdur ama dinç kalmamızın kendi yararımıza oldu ğunu 
+ve uçağımızı emniyetli uçurmak için bilgili ve eğitimli olmamız gerektiğini de unutmamalıyız. Eğer karar 
+verme mekanizmamızda, dikkat ve tepkilerimizde meydana gelen zorluklar; fiziksel veya psikolojik 
+durumumuz sebebiyle oluşuyorsa, emniyetli ve güve nli bir uçuşu tehlikeye atıyoruz demektir. Fiziksel 
+anlamda zinde olmak; strese, yorgunluğa, bitkinliğe ve hipoksiyaya karşı daha dirençli olmak demektir. 
+Hem fiziksel hem de ruhsal zindelik, ilaç, alkol, sigara, uyuşturucu kullanımı sonucunda olumsuz yönd e 
+etkilenir. Şahsi ve ailevi problemlerimiz, uykusuzluk ve düzensiz beslenme bunlara dahildir. Hasta 
+olduğumuzda kullandığımız ilaçlar uçuş kabiliyetlerimizi etkiler ve kendimizi fiziksel olarak rahatsız 
+hissetmemize neden olur. Sigara içmek kandaki oksije n miktarını azaltarak kısa vadede ciddi sağlık 
+sorunlarına neden olur ve enerji kullanımımızı azaltır. Uzun vadede ise kalp hastalıklarının oluşmasında 
+önemli rol oynar. Alkol endişeyi ortadan kaldırmakta fakat performansımıza zarar vererek hata 
+yapmamıza neden olmaktadır. Yüksek irtifa uçuşlarında karar vermemiz konusunda olumsuz etkileri 
+vardır. Şayet düzenli ve kontrollü bir diyet yapıyorsak performansımız olumlu yönde etkilenir, enerji 
+düzeni, vücut fonksiyonlarının düzenli çalışması, doku muhafazası ve  vücuttaki besleyici yapıların 
+gelişmesinde önemli bir rol oynar. Zayıf diyetin en önemli etkisi; hypoglycaemia ve düşük kan şekeridir.  
+ 
+7.5. TOKSĠK TEHLĠKELER 
+Potansiyel olarak uçağın çalışması ve yapısında kullanılan çok sayıda madde vardır. Motor egzos  gazı 
+renksiz, kokusuz karbonmonoksit içerir, gazlar yanma motorlu uçaklarda potansiyel bir tehlikedir. Baş 
+ağrıları, mide bulantısı, uyuşukluk, zihinsel tembellik yada zihinsel karmaşa başlıca etkilerdir. Karbon 
+monoksit, kırmızı kan hücreleri tarafından oksijenden daha fazla (250 kat) birleşme özelliğine sahiptir. 
+Yakıt, yağ ve hidrolik yağı buharlarının hepsi tahriş edicidir. Bu gazın toksik etkileri vardır. Kabin basıncı 
+kontrolünde havalandırma sistemine bu gazların girme olasılığı azaltılır fakat gaz türbinli 
+kompresörlerdeki yağ çatlakları yolcu uçağındaki havalandırmada kirliliğe neden olur. Donmayı 
+engelleyici sıvılar ve yangın  söndürücüler yüksek miktarda toksik içerebilir ve aynı kaynaklarda: 
+havalandırma kabinine girmesi olasıdır.  
+Çoğu polikarb onlar (plastikler) yandığı zaman yüksek miktarda toksik gazlar (siyanid) çıkarır. Kabin 
+koltukları ve yolcu bagajlarının çoğu bu materyallerden kapıldığı için, kabinde toksik yangın tehlikesi 
+düşündürücüdür. Zemindeki toksik duman uçak kazalarında yolcular ın ölümünün ana nedenidir. Kargo 
+uçakları çok fazla miktarda toksik madde içerir. Örneğin; tarım ilaçları bu yönden özellikle tehlikelidir. 
+40.000 ft yüksekte seyreden uçakta atmosferden aşırı ozonun kabin basıncı kontrolü sisteminden 
+boşaltılması önemlidir, çünkü bu oksijen türü tahriş edici bir maddedir. 
+ 
+7.6. Gece GörüĢüne Etki Eden Faktörler : 
+a) Karbonmonoksitin gece görüĢü üzerindeki etkileri: Karbonmonoksit solunmasından doğan hipoksi 
+neticesinde görüş keskinliği, parlaklığı, ayrıntıları belirleyebil me ve karanlık adaptasyonu kabiliyetleri 
+azalır. Örneğin; kanda % 5 oranında CO bulunması görüş eşiği üzerinde 8.000 -10.000 feet irtifadaki 
+görüş eşiğine eşdeğer bir durum yaratır. Uçuştan 45 dakika önce 3 adet sigara içmek 8.000 feet irtifadaki 
+görüşe eşd eğer bir durum meydana gelmesine neden olur ve kanda % 4 oranında CO oluşturur. Bu 
+ 
+ 
+ 
+THY A. O. UÇUġ EGĠTĠM AKADEMĠ MÜDÜRLÜĞÜ  
+EĞĠTĠM DÖKÜMANI 
+ 
+Doküman No ED.72.UEA.HHD 01 
+Revizyon Tarihi 24.04.2008 
+Sayfa No 30/44 
+ 
+ 
+THY KYS Form No: FR.18.0001 Rev.01 
+nedenle gece uçuşlarından önce sigara içmekten ve taksi yapan uçakların egzoz gazlarını solumaktan 
+kaçınmak gerekir.  
+ 
+ 
+ 
+THY A. O. UÇUġ EGĠTĠM AKADEMĠ MÜDÜRLÜĞÜ  
+EĞĠTĠM DÖKÜMANI 
+ 
+Doküman No ED.72.UEA.HHD 01 
+Revizyon Tarihi 24.04.2008 
+Sayfa No 31/44 
+ 
+ 
+THY KYS Form No: FR.18.0001 Rev.01 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+THY A. O. UÇUġ EGĠTĠM AKADEMĠ MÜDÜRLÜĞÜ  
+EĞĠTĠM DÖKÜMANI 
+ 
+Doküman No ED.72.UEA.HHD 01 
+Revizyon Tarihi 24.04.2008 
+Sayfa No 32/44 
+ 
+ 
+THY KYS Form No: FR.18.0001 Rev.01 
+BÖLÜM 8 
+ĠNSANIN BILGI IġLEME SURECI 
+ 
+8.1. ĠNSANIN BILGI IġLEME SURECI 
+ 
+ 
+ 
+ġekil: 1.15 A sleep Pattern on successive Days Wıthout Zeitgeber Clues to Time 
+ 
+İnsan çevresinden gelen bilgileri, uyarımları duyularıyla alır, bunların bir kısmı ayıklanır, bilince 
+yansıtılmaz; uyarma gücün e sahip önemli olanlar beyinde işlenir (bellekteki benzer bilgilerle 
+karşılaştırma, tanıma, yorumlama, depolama, karar verme), sonuçta da bir tepki verilir. Benzer işlevler 
+gören ama programlandığı şekilde standart tepkiler gösteren bir bilgisayardan farkl ı olarak, insanın bilgi 
+işleme sürecinde muğlak ve önceden tahmin edilemeyen yanlar vardır. Bir kara kutuya benzetilen insan 
+bilgi işleme aracında, girdilerin işlenişi ve çıktıların niteliği kişiden kişiye büyük değişiklikler 
+göstermektedir. Her insanın he r an değişme potansiyelinde dikkat ve uyanıklılığı, duyu, algı ve 
+emosyonları olduğu gibi, öğrenme ve bellek kapasiteleri, yargı ve karar mekanizmaları da farklıdır. Kişiye 
+özel bilinçdışı materyali ise, beklenmedik tepkilerin bir başka kaynağıdır. Bütün b unların üstüne bir de 
+kişinin fiziksel ve zihinsel hastalıkları, yaşı, o andaki yorgunluğu, açlık -tokluk durumu, maruz kaldığı 
+kimyasalların etkileri vs. de eklendiğinde, beynin bilgi işleme fonksiyonunun ne kadar çok faktör 
+tarafından adeta taciz edilmekte olduğu anlaşılmaktadır. 
+Yukarıdaki açıklamalarda bilgi işleme sürecinin olumsuz işleyişi öne çıkarılmış gibidir. Aslında iyimser 
+veya kötümser bakış açılarına göre farklı değerlendirmeler yapmak olasıdır. Örneğin; her gün on binlerce 
+uçuşun yapıldığı dün yamızda, pilot hataları nedeniyle gökten başımıza uçaklar yağmadığına göre, 
+pilotların bilgi işleme sürecini genellikle doğru yaptıkları sonucuna da varılabilir. Ama kazalardaki insan 
+faktörünün % 70 -80'lerde seyri devam ettiği sürece de, bu psikoloji ağır lıklı konular önemini 
+kaybetmeyecek gibi görünmektedir. Bu bölümde bilgi işleme sürecini oluşturan ve etkileyen unsurlar 
+olarak dikkat, uyanıklık, duyu, duygu, algı, bilinçdışı, bellek ve öğrenme konuları ele alınacaktır. 
+ 
+8.2. UYANIKLIK VE DĠKKAT 
+Beynin bilişsel (cognitive) işlevlerini gerektiği gibi yapabilmesi, iyi performans gösterebilmesi ve doğru 
+kararlar üretebilmesi için, belirli düzeyde bir aktivite içinde olması gerekir. Uyanıklık (arousal, vigilance) 
+denen bu yeti ile beyin çevresel değişimleri a lgılama, inceleme, karar verme ve uygun tepkiyi gösterme 
+işlevlerini yerine getirebilir. Dikkat ise uyanıklığın bir alt parçasıdır.  
+ 
+a) Uyanıklık: 
+Uyanıklık kişiyi aktif yapan iç enerjidir; uyarılma ise, derin uykuyla yüksek heyecan arasında bir 
+uyanıklığın yaratıldığı bir durum olarak tanımlanabilir. Uyanıklığı beyin dalgaları kayıtlarından (EEG) 
+ 
+ 
+ 
+THY A. O. UÇUġ EGĠTĠM AKADEMĠ MÜDÜRLÜĞÜ  
+EĞĠTĠM DÖKÜMANI 
+ 
+Doküman No ED.72.UEA.HHD 01 
+Revizyon Tarihi 24.04.2008 
+Sayfa No 33/44 
+ 
+ 
+THY KYS Form No: FR.18.0001 Rev.01 
+takip etmek mümkündür. Bir dış uyaranla canlanan ve zihinsel aktivitesi artan kişinin beyninde alfa 
+dalgalarının azalıp, beta dalgalarının arttığı izlenebilmekte dir. Uyanıklığı arttıran dış etmenlerden birisi 
+duygusal tepkiler'dir. Korku, heyecan gibi duygulanımlarda sempatik sinir sistemi aktive olarak uyanıklığı 
+ve canlılığı arttırır. 2. etmen kas hareketleri'dir. Örneğin; bir askeri uçak pilotu tırmanış, dalış,  dönüş 
+hareketlerinde pedal ve lövye yi kas gücüyle kullanacak, maruz kaldığı G kuvvetlerine de karın ve göğüs 
+kaslarını çalıştırarak dayanacaktır; bu kas aktivitesi uyanıklığı arttırmaktadır. (Monoton görevlerde 
+uyuklama eğilimine giren sürücülere ve pilotlara gerinmeleri önerilir) 3. etmen zihinsel aktivite olup, zorlu 
+görevlerin bir problem çözer gibi zihinsel çaba ile başarılması sırasında pilotun uyanıklık düzeyinin 
+yükseleceği açıktır. Ödül veya ceza beklentileri de kişiyi canlı tutan etmenlerin dördü ncüsüdür. Son 
+olarak uyanıklığın idamesinde kullanılan stimulanlar'dan söz edilebilir. Uzun ve monoton uçuş 
+görevlerinde pilotun yorgunluğunu azaltmak, zihinsel kapasitesini arttırmak amacıyla yaygın biçimde 
+kullanılan kafein (200 -300 mg. tablet, yada buna  eşdeğer 2 fincan kahve, 3 -4 fincan çay veya kolalı 
+içecek) gerçekten de yararlı olmaktadır. Ancak doz artımında çarpıntı, sinirlilik ve uykusuzluk 
+yapmaktadır.  
+ 
+                                      Tablo: 1.3 
+ 
+8.3. ÖĞRENME VE BELLEK: 
+ 
+8.3.1. Öğrenme:  Havacılıkta öğretimin amacı, uçağı en iyi ve güvenli biçimde uçuracak insanı 
+oluşturmaktır. Tüm seçme, eğitim ve öğretim çalışmaları, ideal bir pilot modeline uygun insanı elde 
+etmek içindir. Aslında havacılık, dışındaki alanlarda da insanın öğrenme ve davr anışlarını daha iyiye 
+doğru değiştirme çabası ömür boyu sürer; bunu bazen kişinin kendisi, bazen çevresindekiler yapmaya 
+çalışır. Bugün uygarlığın geldiği düzeyin yüksekliği, bugünkü insanların 10 bin yıl önceki insanlardan 
+daha akıllı olmalarıyla değil, 1 0 bin yıllık bilgi birikiminin bugüne aktarılması yani bugün daha çok şey 
+öğrenmiş oluşumuzla ilgilidir.  
+Havacılıkta uçuş saati arttıkça (ki bu, uçuş öğreniminin artışı demektir) kaza oranlarının da azalmakta 
+olduğu bilinir. Örneğin; genç pilotların ilk 50 saatlik uçuşlarındaki hata oranları, takibenden 50 saattekine 
+göre 3 kat fazla bulunmuştur. Böyle bir araştırmadan haberi olmayan kişilerin bile kolayca tahmin 
+edebileceği bu gerçekten hareketle havacılıkta öğretime çok önem verilmektedir.  
+Beynin kabuk bölgesinin (serebral korteks) bir işlevi olan öğrenmenin mekanizmaları 2 ana başlık altında 
+toplanmaktadır; Çağrışımlı öğrenme ve zihinsel öğrenme. Çağrışımlı öğrenmenin 2 alt başlığı da, klasik 
+koşullanma ve edimsel (operant) koşullanmadır. Bu konularda k lasikleşmiş deneyleri olan bilim adamları 
+(Pavlov, Skinner) öğrenmede koşullanmanın, pekiştirmenin, ödül ve cezanın etki biçimlerinin teorilerini 
+ortaya koymuşlardır.  
+ 
+ 
+
+ 
+ 
+ 
+THY A. O. UÇUġ EGĠTĠM AKADEMĠ MÜDÜRLÜĞÜ  
+EĞĠTĠM DÖKÜMANI 
+ 
+Doküman No ED.72.UEA.HHD 01 
+Revizyon Tarihi 24.04.2008 
+Sayfa No 34/44 
+ 
+ 
+THY KYS Form No: FR.18.0001 Rev.01 
+ 
+a) Öğrenmenin türleri: 
+Pratikte öğrenmenin 3 türü vardır; 
+Motor öğrenme :  Fiziksel be cerilerin (bisiklet, otomobil kullanma, uçak kullanma yüzme, vs.) el -kol-
+bacak-vücut hareketleri yoluyla öğrenilmesi,  
+Algısal öğrenme :  Duygusal paternler arasındaki farkları, bağlantıları ve bunlara anlam vermeyi 
+öğrenme, 
+Sözel öğrenme : Sözcüklerin ve sosyal sembollerin anlamını kavrayarak öğrenme. 
+Bu öğrenme türleri arasında ilginç farklar vardır. Örneğin; yüzme veya bisiklete binme becerileri sözel 
+öğretilerle kazanılamaz; mutlaka deneyerek, fiziksel uygulamalar yaparak öğrenilebilir ve bir kez 
+öğrenildiğinde de ömür boyu unutulmaz. 
+ 
+b) Öğretim aktarması: Özellikle pervaneliden jete geçerek uçak tipi pilotlar, eski ve yeni uçağı arasında 
+çok temel farklılıklar varsa eğitim aktarmasına gereksinim duyarlar. ilk uçakta öğrenilen bilgi ve beceriler 
+ikinci uçakta işe yarıyor ve öğrenmeyi kolaylaştırıyorsa pozitif transfer; aksine, önceki bilgiler yeni uçakta 
+karışıklık yaratıyorsa negatif transfer söz konusudur. Masa tenisinden saha tenisine geçen oyuncularda, 
+oyun kurallarına, sisteme uyum sağlamada pozitif,  raket kullanmada negatif aktarım gözlenir. Otopilotu 
+olmayan uçakta, uçağın uçurulması lövye, gaz kolu ve direksiyon ile manuel olarak yapılır. Otopilotlu 
+uçakta bunların hepsi otomatik olarak yapılır ama bir arıza durumunda daha önceden kazanılmış olan 
+kumanda öğrenimleri hemen devreye girer.  
+ 
+c) Öğrenmeyi kolaylaĢtıran unsurlar : 
+-Öğrenmeye motive olmak, 
+-Öğrenme hızını ayarlamak, 
+-Uygulama yapmak, 
+-Öğrenmeyle ilgili ölçüm değerleri ve sonuç hakkında bilgilenmek. 
+ 
+Bu unsurlar dikkate alınarak öğrenme ko laylaştırılabilir ise de, yeni bilgilerin pekiştirilmesi ve sindirilmesi 
+(kişinin malı haline gelmesi) belirli bir zamanı ve uygulamayı gerektirir. Böyle olmadıysa, kritik veya 
+dikkat dağınıklığı durumlarında pilot alışık olduğu eski bilgilerine dönebilir ki buna, alışkanlık karışması 
+denilir. Gerek negatif transfer ve gerekse alışkanlık karışması durumları simulatör ve gerçek uçuş 
+eğitimleriyle azaltılabilir. 
+ 
+d) Öğrenmeyi zorlaĢtıran unsurlar : 
+-Stres, anksiyete, uçuş korkusu, 
+-Motivasyon düşüklüğü, rahat oluş, 
+-Dikkat ve konsantrasyon bozuklukları, 
+-Uykusuzluk, jet-lag, shift-lag, 
+-Hastalık ve acı veren durumlar, 
+-Yaşlanma. 
+ 
+Şüphesiz yukarıdaki unsurlara herkesin kendi pratiğinden bildiği pek çok başka eklemeler yapılabilir. 
+Bunlardan yaşlanma, üzerinde ayrıca durulmayı gerektirecek kadar ilginç bir unsurdur. Gerçekten de yaş 
+ilerledikçe kas gücü azalması gibi, bellek gücünün de azaldığı, demans (bunama), depresyoll ve bazı 
+fiziksel hastalıkların arttığı bilinmektedir. Ancak yaşın göreceli bir yıpranma get irdiği, yani kişiden kişiye 
+büyük farklarla seyrettiği de doğrudur; bundan 20 sene öncesinin yaşlılık konsepti ile bugünkü de çok 
+farklıdır. Ayrıca yaşla kazanılan deneyimlerin bazen bir gencin kas gücünden daha çok işe yaradığını da 
+unutmamak gerekir. Ask eri havacılık belki daha genç pilotların işidir ama sivil havacılık çoğunlukla 
+zihinsel aktivitelerle yapılan bir iş olduğundan, pilotun yaşı 60'a gelinceye kadar daha gençlerle hiçbir 
+statü farkı gözetilmemekte, sonrasında tıbbi muayeneler sıklaştırılmakt a ve bir hastalık bulunmadığı 
+takdirde uçuşa müsaade edilmektedir. 
+ 
+8.3.2. Bellek : İnsan beyninde 140 milyar hücre ve bunlar arasında da milyarlarca bağlantı vardır. Beyin 
+kabuğunda birkaç milimetre kalınlığındaki korteks bölgesine yüz binlerce bilgi depo lanabilmektedir. Ama 
+ 
+ 
+ 
+THY A. O. UÇUġ EGĠTĠM AKADEMĠ MÜDÜRLÜĞÜ  
+EĞĠTĠM DÖKÜMANI 
+ 
+Doküman No ED.72.UEA.HHD 01 
+Revizyon Tarihi 24.04.2008 
+Sayfa No 35/44 
+ 
+ 
+THY KYS Form No: FR.18.0001 Rev.01 
+gerek yüklemede ve gerekse yüklenmiş bilgileri geri çağırmada bazı problemler olmaktadır. İnsan 
+beyninin unutmak gibi bir handikabı vardır; havacılıkta sadece pilotun değil, bakım ve hava trafik 
+personelinin bellek kusurları da kazalar ın ağırlıklı nedenleri arasında yer almaktadır. Bir bilgisayarla 
+karşılaştırıldığında gerçekten de çok kaprisli ve güvenilmez görünen beyin, iyi işlediği zaman ise, 
+bilgisayarın erişemeyeceği hızlarla bellekteki bilgileri bulma, ilgisiz gibi görünen başka bilgilerle şaşırtıcı 
+bağlantılar kurma, orijinal çözümler ve yenilikler yaratma gibi becerileriyle onu aşabilir. 
+ 
+a) Hatırlamayı etkileyen unsurlar : 
+ Yeterli ve İyi öğrenme, 
+ Bilgileri tasnif etme, sorular hazırlayarak aşinalık kazanma, 
+ Yeni bilgileri eskilerle ilişkilendirme, anlamlı bağlantılar kurma, 
+ Sık tekrarlama, 
+ Bellekte tutmayı isteme, 
+ Heyecan yüklü olaylar sırasında öğrenme, 
+ Anımsamayı kolaylaştıran uyarıcılar bulma, notlar alma, 
+ Dikkati dağıtıcı unsurları ayıklama. 
+ 
+b) Bilgilerin belleğe depolanması : 
+Bir bilginin belleğe depolanması 3 türde olur;  
+ 
+1) Duyumsal depolama :  Özellikle gözlerimize ve kulaklarımıza gelen bilgilerin ikonik ve ekoik kodlar 
+olarak akılda tutulma süreleri çok kısadır (114 -30 sn.). Ancak az sayıdaki bazı insanların fotoğraf v eya 
+müzik bellekleri kuvvetlidir. Bir resme veya görüntüye 3 -5 saniye bakan böyle kişiler görüntüyü tüm 
+ayrıntılarıyla 5 -10 dakika hatırlarında tutabilirler; keza bir müzik parçasını bir kez dinledikten sonra 
+tekrarlayabilirler yada notaya alabilirler . 
+ 
+2) Kısa süreli bellek (working memory, iĢler bellek) :  Bazı önemli bilgiler duyumsal bellekten kısa 
+süreli belleğe (KSB) aktarılır ve bu sırada bir miktar bilgi kaybı olur. Buradaki bilgiler kümelenerek veya 
+tekrarlanarak bir süre bellekte tutulsa da, bu sü re bilginin işlenmekte olduğu, yani üzerinde çalışmaya 
+devam edildiği kadardır. Okuma sırasında, bir önceki satır, sonrakiyle bağlantılı ise bir süre tutulur, sonra 
+saniye ve dakikalar içinde silinir. Sadece okurken değil, konuşurken, dinlerken ve seyreder ken de, 
+müsabaka sporlarında ve uçuşta da aynı süreç işler. KSB'de bir defada ve aynı anda tutulabilen bilgi 
+sayısı 7 olarak bilinmekle beraber, kişiden kişiye 5 -9 birim arasında değişmektedir ve bu da, 7+2 olarak 
+da ifade edilmektedir. KSB, bir telefon nu marasının defterden bakılıp, telefon çevrilinceye kadar akılda 
+tutulup sonra unutulması gibi kısa ve geçici işlev görür. Uçuşun hemen her safhasında, o anki durumla 
+ilgili rutin bilgilerin alınıp işlendikten sonra atılması gibi bir işlem devam eder. Bu sır ada beyni yormamak 
+için bazı müsvedde notlar alınabilir Görev gereği olarak sürekli tekrarlanan ve her zaman ihtiyaç duyulan 
+bilgiler ise Uzun süreli belleğe geçer. 
+ 
+3) Uzun süreli bellek :  Kalıcı olması gereken bilgilerin (ev telefonu, yakınların doğum gü nleri, mesleki 
+önemli bilgiler, vs.) depo yeri burasıdır. KSB 'den transfer sırasında gene bazı kayıplar olur ve transfer 
+yavaş gerçekleşir ama bilgilerin bellekte kalma süresi saatlerden aylara, yıllara ve hatta ömür boyuna 
+kadar uzayabilir. KSB'deki kapasite sınırlılığına karşın USB'de kapasite okyanus gibi geniştir. Ana dil ve 
+yabancı dildeki sözcükler ve kültür de dahil tüm bilgiler buraya depolanır. KSB depolanma süreci 
+biyofizik bir olay olmasına karşın, USB süreci biyokimyasaldır, yani bilgiler beyin  proteinlerindeki yapısal 
+değişimlerle yüklenir. Sürekli tekrar edilen bazı motor beceriler (merdiven çıkma, otomobilde vites 
+değiştirme, bisiklete binme, fletner yapma) zaman içinde otomatizm kazanır, yani düşünülmeden 
+yapılacak kadar öğrenilmiş olur, buna motor bellek denilmektedir. 
+ 
+8.4. KARAR VERME ĠLE ĠLGĠLĠ ARAġTIRMALAR : 
+FAA. 'nın yönlendirmesiyle Jensen ve Benel isimli bilim adamları 1970 -1974 yılları arasındaki uçuş 
+kazalarını incelediklerinde 3 ana hata tipi belirlemişlerdir : 
+ 
+a) Prosedür hataları, 
+ 
+ 
+ 
+THY A. O. UÇUġ EGĠTĠM AKADEMĠ MÜDÜRLÜĞÜ  
+EĞĠTĠM DÖKÜMANI 
+ 
+Doküman No ED.72.UEA.HHD 01 
+Revizyon Tarihi 24.04.2008 
+Sayfa No 36/44 
+ 
+ 
+THY KYS Form No: FR.18.0001 Rev.01 
+b) Anlayış-idrak-fizik beceri hataları, 
+c) Yargı-karar hataları. 
+Ölümcül kazaların % 52'si karar verme hatasından kaynaklanmıştı ve bu faktör ölümsüz kazalarda da % 
+35 oranında rol oynamıştı. Bu araştırıcıların insan hatasından kaynaklanan pek çok kazanın karar verme 
+eğitimiyle azaltılabileceğini rapor etmeleri üzerine FAA. Embry-Riddle Üniversitesiyle işbirliği içinde 1982 
+yılında yargı ve karar verme eğitimi projesini başlatmıştır. 1987 -89 yıllarında benzer bir çalışma yapan 
+Diehl ve arkadaşlarının eğitim sistemleri karar vermeyi 3 basamakta ele almaktadır; 
+ 
+1)  Çevrenin izlenmesi,   
+2)  Çevredeki değişikliklerin tanınması,  
+3)  Bir tepkinin belirlenmesi.  
+ 
+Karar vericinin en doğru tepkiyi seçmesini etkileyen 2 faktör ise, önyargılar ve hatalı tutumları dır. Pilotun 
+önyargıları ve hatalı tutumları, muhtemelen çocukluk  önemi örselenmeleri, eğitimi, kişiliği ve yaşam 
+olayları gibi köklerden gelir. Sonuçta pilotun yaşamını yitirmesine kadar varan yanlış kararlara yol açan 
+bu tutumlardan bazıları Berlin ve a rkadaşları tarafından 5 başlık altında toplanmıştır; otorite karşıtlığı, 
+düşünmeden davranma, incinmezlik tutumu, maço tavrı ve kadercilik. Aslında sıradan bir insanı da, bir 
+pilotu da tehlikeye yakınlaştıran hatalı tutumları beş başlık altında toplamak ye terli değildir; bu tür 
+tutumlar beşten çok fazladır ve tarafımızdan Gremlinler başlığı altında biraz daha zenginleştirmeye 
+çalışılmıştır. 
+ 
+8.4.1. Karar Vermeyi GüçleĢtiren Etkenler : 
+Karar verme anında zorluk yaratan, pilotun dikkatini ve performansını aza ltan, sonuçta karar verme 
+yetisini bozan etkenlerden bazıları şunlardır:  
+ 
+a) Sınırlı zaman : Kritik durumlarda doğru bir karar bile geç alınmışsa, yanlış bir  karardan farkı yoktur, 
+b) Sınırlı bilgi : Acil karar verme durumunda bilgi akışı yetersizse yanlışa düşme olasılığı artar, 
+c) Sınırlı alternatifler :  Pilot emercensi uygulamaları sırasında uçağının dizayn ve yeteneklerini de 
+dikkate almak zorundadır. Örneğin; başka bir model uçakta, kolayca içinden çıkılabilecek bir durum, bu 
+uçak için imkansız olabilir, 
+d) Olumsuz koĢullar :  Uçuş alet ve göstergelerinin bozukluğu, çevresel koşulların (meteoroloji, görüş, 
+meydan kolaylıkları vs.) olumsuzluğu, iletişim yetersizliği ve ekiptekilerin yanlışları, 
+e)Prosedürler : Uyulması zorunlu yönergeler, çeklistler ve kurum politikalarını, 
+f) Fizik ve fizyolojik problemler :  Yorgunluk, uykusuzluk, açlık, susuzluk, ısı, nem, ışık, titreşim, 
+gürültü, oksijen gibi fiziksel ve fizyolojik unsurlar, 
+g) Psikolojik durum :  Motivasyon düşüklüğü, stres, heyecan, panik, korku, öny argı, hırs, takıntı, yanlış 
+alışkanlık ve tutumlar ... 
+ 
+8.5. UYANIKLIK VE DĠKKAT 
+Beynin bilişsel (cognitive) işlevlerini gerektiği gibi yapabilmesi, iyi performans gösterebilmesi ve doğru 
+kararlar üretebilmesi için, belirli düzeyde bir aktivite içinde olma sı gerekir. Uyanıklık (arousal, vigilance) 
+denen bu yeti ile beyin çevresel değişimleri algılama, inceleme, karar verme ve uygun tepkiyi gösterme 
+işlevlerini yerine getirebilir. Dikkat ise uyanıklığın bir alt parçasıdır.  
+ 
+8.6. DOĞAL KARAR VERME:  
+Karar ve rme yetisi ile ilgili araştırmalar son 15 yıldır artmıştır. Konu ile ilgili hiçbir eğitimleri olmadığı 
+halde, yaşadığı ve çalıştığı ortamlarda verdikleri tutarlı kararlarla birçok problemi çözebilen kişilerin 
+varlığı ve başarı oranlarının % 95 civarında ol uşu araştırıcılara ilginç gelmiştir. 1980'lerde itfaiye şefleri, 
+gemi kontrol personeli, tank takım komutanları, havayolu pilotları, acil servis doktorları, işadamları ve 
+mahkeme jüri üyelerinin gözlenmesiyle doğal karar verine yetisi (naturalistic decisio n making) hakkında 
+bazı ipuçları elde edilmiştir. Bu kişiler, zaman darlığının olduğu dinamik bir ortamda ve yetersiz bilgi 
+akışının olayı net biçimde kavramaya elvermediği koşullarda bile doğru kararlar verebilmekte, değişen 
+durumlara göre amaç ve hedefle rini de değiştirebilme esnekliğini gösterebilmektedirler. Doğal karar 
+ 
+ 
+ 
+THY A. O. UÇUġ EGĠTĠM AKADEMĠ MÜDÜRLÜĞÜ  
+EĞĠTĠM DÖKÜMANI 
+ 
+Doküman No ED.72.UEA.HHD 01 
+Revizyon Tarihi 24.04.2008 
+Sayfa No 37/44 
+ 
+ 
+THY KYS Form No: FR.18.0001 Rev.01 
+vericiler de kitapların yazdığı gibi, bazen tek başına karar vermeyi, bazen takım çalışmasını yeğlemekte, 
+eğer kritik durumun dışındaysalar daha isabetli kararlar verebilmektedirler. 
+Şüphesiz, doğal karar vericilerin çoğu deneyimli kişilerdir. İyi bir performans göstermiş olan bir itfaiye şefi 
+ile olayın hemen somasında yapılan görüşmede, karar verme öncesindeki süreç sorulmuş, şef aklına ilk 
+gelen fikri uyguladığını söylemiştir. Bir sava ş karargahı veya kriz masasındaki gibi, çeşitli alternatifleri 
+gözden geçirmeden nasıl böyle doğru bir karar verebildiği şaşırtıcı olmuştur. Ama şu da bellidir ki, birkaç 
+saniyede verilmiş gibi görünen bu kararın ardında, yılların deneyimleri, pekiştirilmi ş sezgi birikimi, adı 
+konulmamış yetenekler vardır. Şef bu kısacık zaman içinde, bilgi işleme ve risk analizi yapmış, 
+olanaklarını da göz önünde tutarak en doğru kararı vermiştir.  
+Bu kişi eğer yeteneksiz, dengesiz, sezgileri tutarsız, deneyimleri yetersiz  olsaydı, ya şef olamayacak 
+veya birkaç kritik durumdaki yanlış kararlarıyla başarısız olacak ve pozisyonunu kaybedecekti. Böyle 
+kişiler, durumu bir kez kavradıklarında (teşhis), alternatifleri süratle eleyebilmekte ve doğru karara 
+hemen varabilmektedirler. Karar mekanizması çoğu zaman otomatik çalışır; tehdidin de, amacın da çok 
+belirgin olmadığı bir karmaşada, en mükemmel çözümün değil, en işe yarar (fonksiyonel) olanın 
+seçilmesi çoğu zaman yeterlidir. Çocukların sokaktaki küçük dalaşmalarında da, askeri pilotların düşman 
+uçaklarıyla angajmanlarında da öncelikli konu olayın adını koymak, yani teşhis etmektir. Karşınızdakinin 
+niyetini, muhtemel hareket tarzını (saldıracak mı, oyun mu oynuyor ?) doğru kavrayabilirseniz, kararınız 
+isabetli olur. Futbolda ''oy unu doğru okumak'' olarak bilinen bu olgunun ardından doğru eylemi de 
+yapabilmek gerekir. Bazen kaçmayı, bazen hiçbir şey yapmamayı da kapsayan doğru kararlar bazen 
+egoyu tatmin etmeyebilir, tribünlerden alkış da almayabilir ama bunu komplekse kapılmadan y apabilen 
+çocuklar, sıradan insanlar, eğitimsiz liderler vardır ve işlevsel kararlarıyla hem kendilerini, hem 
+başkalarını esenliğe  götürebilmektedirler. Doğal karar vericiler bunu nasıl yapabildiklerini bilmezler 
+bilimsel incelemelerin sonucuna göre yaptık ları iş iki aşamalıdır; teşhis ve eylem. Doğru teşhis ise üç 
+teknik ile yapılmaktadır; 
+ 
+1. Benzeştirme/eşleştirme, 
+2. Mukayeseli uslamlama (yargı), 
+3. Zihinsel simülasyon. 
+ 
+Bu tekniklerden en çok kullanılanı benzeştirmedir. Problemin çözümüyle ilgili olara k kişinin kafasında 
+eskiden beri yer etmiş, doğruluğu onaylanmış kalıplardan biriyle benzerlik kurulur veya eşleştirilir 
+(matching). Çoğu zaman bilinçdışı gerçekleşen bu süreç, benzeri durumların hatırlandığı hallerde bilinçli 
+olarak da işletilebilir. Hava cılıkta, denizcilikte, tıpta , vs. acil durum uygulamalı eğitimlerinin amacı da 
+budur; kişilerin kritik durumlara aşina olmalarını ve otomatik biçimde doğru teşhis ve doğru eylem 
+kararlarını vermelerini sağlamak. Örneğin; bir pilot uçağında kumanda dışı ir tifa kaybı, yatış veya motor 
+sesi değişikliği fark ettiğinde, belleğinde bu durumlarla ilgili depo bilgileri tarayacak, benzerleriyle 
+eşleştirecek ve otomatik gibi görünen bir karar verecektir. Bu süreçte doğru yargı için mukayeseli 
+uslamlama da kullanılac aktır. Fakat en ilginç teknik, zihinsel simulasyon'dur. Karar verici, zihninde 
+benzeştirecek hazır şemaların bulunmadığı kritik durumlarda olayın şimdiki görünümünü öyküleştirir, 
+elindeki bilgi parçalarını da kullanarak ''bu olay olsa olsa şöyle gelişir, b öyle sonlanır'' diye, filmi ileri -geri 
+sararak kafasında canlandırır ve buna göre teşhis koyar. 
+Doğal karar vericiler belki güçlü sezgilerine ek olarak, çok öykü bilen, yaşamın içinde pişmiş ve bu 
+sayede küçük ipuçlarından sonucu tahmin edebilme yetisi kaz anmış kişilerdir. Bazı insanların böyle 
+yetenekleri gerçekten vardır ama çoğu insanın da yoktur. Böyle yetileri olmadığı halde, kendilerini tanrı 
+vergisi sezgilere sahip, insan sarrafı ve doğru kararlar verebilen kişiler olarak görme arzusundaki bazı 
+insanlar problemdir. ''Kendini gemi sanan sandal ilk fırtınada  batar,'' atasözü doğrultusunda, gerçek 
+yaşam bu kişilere bazı dersler verir. İdeali, insanın kendi meziyetlerini de, zafiyetlerini de dürüstçe 
+kabullenebildiği bir iç görüye sahip olmasıdır.  
+Havacılıkta iyi pilotların doğru kararlar veren kişiler olduklarına ve bunun da yılların deneyimleriyle 
+kazanıldığına inanılmıştır. Bu, pek çok tehlikeli uçuş pozisyonunu atlatarak dersler çıkarabilmiş pilotlar 
+için doğrudur ama incelemeler uzun yıllar boyu uçu ş yapmış her pilotun doğru kararlar verme yetisine 
+sahip kişiler olmayabileceğini, uçuş saatinin fazla olmasının deneyim göstergesi sayılmayacağını 
+göstermiştir.  
+ 
+ 
+ 
+ 
+THY A. O. UÇUġ EGĠTĠM AKADEMĠ MÜDÜRLÜĞÜ  
+EĞĠTĠM DÖKÜMANI 
+ 
+Doküman No ED.72.UEA.HHD 01 
+Revizyon Tarihi 24.04.2008 
+Sayfa No 38/44 
+ 
+ 
+THY KYS Form No: FR.18.0001 Rev.01 
+8.6.1. Karar verme ile ilgili diğer hatalı tutumlar : 
+a) Kurban Etme :  Bazı insanlar karışık durumlarda, karar vermenin güçlüğünü ve zaman gerektirdiğini 
+görerek, alternatifleri irdelemeyi ve en doğruyu bulma çabalarını durdurur ve kolay bir seçim yaparlar, 
+yani zihinsel tembellik nedeniyle en iyi karar kurban edilir.  
+ 
+b) ĠnatlaĢma: Bazı  insanlar bir yola girdiklerinde, onun sonuna kadar gitmek zorundaymışlar gibi bir 
+illüzyona kapılırlar. Açık arttırmalarda, gereksiz bir inatlaşma veya hırs ile o eşya için makul olan paranın 
+çok fazlasına çıkan insanlar vardır. Havacılıkta da, örneğin; iniş için  elverişli olmayan koşullarda, o 
+meydana inmeye mecburmuş gibi iki veya üç gereksiz yaklaşma yapma ve karar mekanizmasının 
+düğümlenmesi olguları seyrek değildir. 
+ 
+c) Deneyimlilik Abartısı: Deneyim sadece toplam uçuş saati ile ölçülen bir unsur değildir. Uç uş saati 
+kabarık olduğu halde deneyimsiz pilotlar da vardır, bunlar sürekli yaptıkları yanlışlarla negatif deneyim 
+kazanmış kişilerdir. Bazı başarılarını (?) kibirle abartan, başarısızlıklarını ise hatırlamayan ve ders de 
+çıkarmayan böyle pilotlar, deneyimsiz fakat bilgili pilotlardan çok daha kötü kararlar vermektedirler. 
+ 
+d) Kumarbaz Yanılgısı: Bazı insanlar kumarda sanki bir denge olduğunu varsayarlar. Eğer peş peşe 7 
+kez tura geldiyse, artık yazı gelme olasılığının arttığını düşünürler. Halbuki yazı vey a tura gelme olasılığı 
+% 50'dir ve 40 kez de yazı gelse, 41. atışta yazı veya tura gelme olasılığı gene % 50' dir. Çok gülen bir 
+kişinin mutlaka bir süre sonra' ağlayacağı inancı gibi, havacılıkta bu yanılgı, meteorolojinin olumsuz 
+seyretmesinin artık bite ceği, kokpitteki aksiliklerin yeterince devam ettiği için artık duracağı gibi yanlış 
+beklentilerle kendisini gösterir ve yanlış kararlara zemin hazırlar . 
+ 
+e) Ġlk DüĢüncede Israr: Bazı pilotlar kafalarına yerleştirdikleri ilk uçuş bilgilerini değiştirmemey e direnç 
+gösterirler. Bu büyük olasılıkla bir zihinsel tembelliktir; değişen durumu, yeni bilgileri yok sayarak, uçuşun 
+başlangıcında kafada kurulmuş olan planın değiştirilmesinin zahmetinden kaçılmaya çalışılmaktadır. 
+ 
+f) Fiksasyon: Bazen  pilot göstergele r içinde uçuşun o anı için en gerekli olanına değil, en göze 
+çarpanına (en yenisi, en ışıklısı, en büyüğü, vs.) dikkatini vererek, bilgi işleme fonksiyonunu zaafa 
+uğratır.  
+ 
+g) Genelleme: Birkaç  gözlem ve küçük örnekle sınırlı deneyimlerin genelleştirilmes i, tüm durumlara 
+yayılmaya çalışılması, pilotu yanlış kararlara götürebilir. 
+ 
+h) Tehlikeli Ġyimserlik: Pollyanna’cılık  olarak bilinen, her gelişmeyi, her ipucunu olumlu yönde 
+yorumlama eğilimi, belki kişiye rahatlık veren bir savunma çabasıdır ancak uçuşta pilotun gerçekçi teşhis 
+ve yargılarını bozma potansiyelinde olduğu için, tehlikeli bir tutum sayılır. Zaten bazı insanların sıkıntı 
+yaratan kötü haberler yerine, iyi haberler işitme isteği vardır, bu nedenle bazen olumsuz bilgilerin 
+bastırılması, unutulması bile olasıdır. 
+ 
+i) YanlıĢ Hipotezler: Hiçbir pilot kule izni olmadan kalkış veya iniş yapmaz, hiçbir pilot bilerek yanlış 
+meydana inmez, ama böyle yapıldığına dair pek çok rapor vardır. Pilotun bazen bir fikre kilitlendiği, o fikri 
+destekleyen kanıtlar bulmaya çabaladığı, etrafındakilerin uyarılarına rağmen kafasındaki senaryoya göre 
+davrandığı gözlenir . 
+j) BoĢlukların Doldurulması :  Bazen pilot görev yoğunluğu ve dikkat dağıtıcılar nedeniyle aldığı bir 
+mesajı tam anlamayabilir. Özellikle dış ülkelere y apılan uçuşlarda, değişik telaffuz biçimleri, kısaltmalar, 
+telsizdeki ses bozulmasıyla da daha anlaşılmaz hale geldiğinde pilot, eksikleri aklında oluşan şemaya 
+göre yanlış biçimde doldurabilir veya beklenti içerisinde olduğu bilgiyi yakıştırabilir (expect ations). 
+Örneğin; her zaman aynı taxi talimatlarının veya stand number'ın verilmesi sonucunda yanlış kararlara 
+varıla bilinir. 
+ 
+k) AĢırı Yüklenme: Bazı  kişiler, aynı anda birçok işi birden yapabileceklerini sanırlar; halbuki duyu 
+organlarının ve beynin kap asitesi bu aşırı yüklenmeyi tolere edemez ve bilgi işleme ve doğru karar 
+verme işlevi bozulur. Sadece bir konu üzerine yapılan aşırı yüklenme durumlarında ise, ''tünel algısı'' 
+ 
+ 
+ 
+THY A. O. UÇUġ EGĠTĠM AKADEMĠ MÜDÜRLÜĞÜ  
+EĞĠTĠM DÖKÜMANI 
+ 
+Doküman No ED.72.UEA.HHD 01 
+Revizyon Tarihi 24.04.2008 
+Sayfa No 39/44 
+ 
+ 
+THY KYS Form No: FR.18.0001 Rev.01 
+denen bir durum oluşabilir; bu, dikkatin aşırı biçimde bir konuya yönelmesiyle,  diğer bilgilerin 
+algılanamaması demektir. 
+ 
+8.4.2. Stressör Durumlar : 
+a) YaĢamak : İnsan ayakta kalabilmek için bir takım stresleri göğüslemek zorundadır. Evrende ve zaman 
+içinde yeri çok sınırlı olan insanın en azından fizyolojik ve psikolojik temel gere ksinmelerini 
+karşılayabilmesi, ölüme karşı direnmesi stressör bir durumdur. Yaşayan insan bunu kabullenendir. Bir 
+başka deyişle, bir ölçüde stres yaşamın bedelidir . 
+ 
+ 
+b) KiĢilik Yapısı :  Bir durumun stressör olarak algılanması, o kişinin psikolojik yapısı  ve kişiliğiyle 
+doğrudan ilgilidir. Çocukluk dönemi örselenmeleri, şartlanmalar, zaaflar, alışkanlıklar, bedensel özürler, 
+yeteneksizlikler, zeka, ego ideali, hırs, aşağılık veya büyüklük kompleksleri, mükemmeliyetçilik, 
+bağımlılık  gereksinimi, mazohizm, obsesyon, fobi ve maniler gibi kişilik özellikleri, bir durumun birey için 
+stres olarak değerlendirilip değerlendirilmeyeceğini belirler. 
+ 
+c) Fiziksel Etkenler: Ġnsanın en rahat yaşayabileceği fiziksel ortam; 760 mmHg. basıncı altında, yeterli 
+oksijen bulu nan, 20 -24 ºC ısı, 60 -500 Iüks'lük ışık, % 30 -40 relatif nemli kuru -sıcak hava, 30 -40 db.'i 
+aşmayan gürültü düzeyinde, toksik -mikrobik-radyoaktif kirlenmeden arıtılmış ekolojik ortamdır. Stres 
+yaratanlar ise : 
+ 
+ Rahatsız edici sıcak, soğuk, nem, rüzgar, ışı k, ses, basınç değişiklikleri, vibrasyon, radyasyon, 
+solunum havasındaki gaz, toz, kötü kokular, vs. 
+ Bedensel gereksinmelerinin yetersizliği; açlık, susuzluk, havasızlık, uykusuzluk, cinsel 
+doyumsuzluk, ısınma-barınma zorlukları, vs.  
+ Gelişimsel stresler; doğum, yürüme, abdest kontrolü, ergenlik, adet görme, hormonal etkiler, 
+cinsel dürtüler, hamilelik, menopoz -andropoz, yaşlılık, vs.  
+ Biyoritm faktörü; mensturasyon, kıtalararası uçuşlardaki sirkadien uyumsuzluklar, vardiya 
+değişimleri, mevsim değişmeleri, vs.  
+ Hastalık ajanları; bakteri, virüs, mantar ve parazitler,  
+ Travmatik durumlar; kaza, yangın, doğal afet gibi durumlarda görülen yaralanma, kan kaybı, 
+kırıklar vs. 
+ Savaşlar; kimyasal, toksik, radyoaktif fiziksel zararlar yanında büyük ölçüde psikolojik  stres 
+kaynağıdır. 
+ 
+d) Sosyal Etkenler : 
+ Zaman baskısı: Saate bağlı çalışma düzeni, randevu ve toplantılara, okula veya işyerine 
+zamanında yetişme telaşı, trafik sıkışıklıklarının sıkıntıları,  
+ Rekabet: Çağdaş yaşam kurumları tarafından pompalanan okulda, evde, işyerinde, spor 
+alanlarında birinci olma, daha çok kazanma, en çok sevilen olma istekleri, 
+ Ekonomik zorluklar : Enflasyon, ücret azlığı, işsizlik, bütçe sıkıntıları,  
+ Gelecek endişesi : Savaş, göç, atom silahları, nükleer sızıntılar, toksik sanayi at ıkları, hormonlu 
+ve kimyasal bulaşıklı gıdalar, dünya ısısının artışı, denizlerin yükselmesi, asit yağmurları, ozon 
+deliği genişlemesi, dünyaya çarpması muhtemel gök cisimleri, besin, su ve enerji kaynaklarının 
+tükenmesi, tedavisi bilinmeyen yeni hastalıkl ar, uyuşturucuların yaygınlaşması, şiddet olayları, 
+terörizm, vs. 
+ Kültür şoku : İletişim ve ulaşım araçlarının yaygınlaşmasıyla farklı toplumların kültür 
+uyumsuzlukları, asimilasyon politikalarıyla silinen kültürlere mensup insanların değer yargıları 
+karmaşası ve köklerini kaybetmişlik duyguları,  
+ Toplumsal rol kaybı : Emeklilik, maluliyet gibi nedenlerle kariyer ve statülerin değişmesi, kendine 
+yetememe, doyumsuzluk ve başkalarına bağımlı olma, 
+ Sosyal güvenlik imkanlarının yetersizliği: Hastalık, işsizlik,  emeklilik, can ve mal güvenliği 
+konularında yeterli kamu desteği alamama, hakkını aramakta zorluklarla karşılaşma, 
+ 
+ 
+ 
+THY A. O. UÇUġ EGĠTĠM AKADEMĠ MÜDÜRLÜĞÜ  
+EĞĠTĠM DÖKÜMANI 
+ 
+Doküman No ED.72.UEA.HHD 01 
+Revizyon Tarihi 24.04.2008 
+Sayfa No 40/44 
+ 
+ 
+THY KYS Form No: FR.18.0001 Rev.01 
+ Yaşamı kolaylaştıran imkanların yetersizliği: Elektrik, su, ulaşım, posta, telefon, eğlence, spor, 
+alışveriş imkansızlıkları,  
+ Aile, okul, işyeri ortamlarındaki uyumsuzluk ve huzursuzluklar.  
+ 
+Yukarıda sıralanan stressörlere daha pek çok başkalarının da eklenmesi mümkündür. 0lumlu gibi 
+görünenler de dahil olmak üzere hemen her durum stres olarak da algılanabilir. Bir yere müdür veya 
+başkan ola bilmek için türlü sıkıntılara katlanan insan, isteğine ulaşınca bu defa birinci adam olmayı 
+taşımakta zorlanmaktadır. Tüm streslerin biteceği sanılan emeklilik veya zenginlik durumlarında da 
+başka sıkıntılarla karşılaşılmaktadır. Hamburg isimli araştırıcı 20 üniversal stresli durum belirlemiş olup 
+bunlardan bazıları şunlardır: Çocukluk döneminde ebeveynden ayrılma veya reddedilme, haksızlık ve 
+eziyet görme, ebeveyn hastalığı veya ölümü, okula başlama, ergenlik, evlenme, boşanma, gebelik, 
+menopoz, emeklilik, ani sosyal değişiklikler (savaş, göç), vs. Belirli yaşam olaylarının ortalama insanda 
+hangi oranlarda stres yarattığı konusunda yaygın kabul gören ''yaşam olayları listesi''  (LCU-Life Change 
+Unit) ABD.'de Rahe ve Holmes tarafından hazırlanmış, bunun Türk  toplumuna uyarlamasını Ege 
+Üniversitesinden Dr .Salamon Borokas yapmıştır. 
+ 
+e) Stres Kuramı :  Hans Selye'nin Genel Adaptasyon Sendromu adını verdiği kuramında, stres 
+karşısındaki kişi, ya savaşacak veya kaçacaktır. “ Savaş veya Kaç  (fight or flight) '' formülünün altematif 
+üçüncü yolu uzlaşmaktır. Başka bir ifadeyle, stressör durumlar ya ortadan kaldırılacak ya onlardan 
+kaçınılacak yada onlara alışılacaktır. Alışmanın veya uzlaşmanın olamadığı ve homeostazis'in bozulma 
+tehdidinin bulunduğu, yani savaşmanın veya kaçmanın zorunlu olduğu durumlarda, organizmanın strese 
+tepkisi 3 basamaklıdır;  Alarm, Direnç ve Tükenme. 
+ 
+8.4.3. Olumlu Stresler :  Kişinin bedensel ve ruhsal dengesini (hemeostazis) bozmayacak düzeydeki 
+zorlanmalar, kimi zaman motivasyon işlevi görer ek, başarıyı arttırmakta, performansı yükseltmektedir. 
+Doğum, sınav, öğrenme, kazanma, başarma, keşif, icat, sanatsal yaratıcılık, toplum yararına çalışma, 
+sağlığı koruma amacına yönelik zorlanmalar, yaşamın anlam kazanması ve zenginleşmesi için gerekli 
+zorluklardır ve bunların alt edilmesi için katlanılan stres olumludur. Jessie Bernard stresi zevk veren 
+(eustress) ve sıkıntı veren (distress) olarak ikiye ayrılmıştır. 
+Ilımlı düzeyde ve olumlu nitelikte stresler olmasaydı, insan belki de şu anki olgunluğuna , bilgi düzeyine 
+ve deneyimlerine ulaşamayacaktı. Lider, şef, komutan veya şöhretli biri olarak sorumluluk yüklenmek, 
+muhakkak o insana stres getirecektir. Zaman zaman tehlikeli spor veya serüvenlere gönüllü, maddi -
+manevi fedakarlıklarla ve hatta riskleri göze alarak katılan insanın aradığı nedir? Pilotluk, dalgıçlık, 
+paraşütçülük, astronotluk vb. gibi uğraşların stres yükünün ne kadar fazla olduğu tahmin edilebilir. Bunu 
+kabullenen ve arzulayan insan, muhtemelen günlük yaşamın monotonluğundan sıyrılma, bed ensel 
+gücünün sınırlarını zorlama, kazanma duygusunun tatmini peşinde olsa gerektir. Bir anlamda gelişmenin 
+motoru olan buna benzer stresler bireyin yaşamına anlam katan ve renklendiren unsurlardır. 
+Sıfır düzeyinde stres yaşamın boşluğu ve ölüm anlamında y orumlanmaktadır. Stresin olumlu veya 
+olumsuz etkileri tamamen dozla ilgilidir; fazla doz gibi, yetersiz doz da hastalık veya mutsuzluk etkeni 
+olabilir. Prof. Kenneth Greenspann, stresi bir keman teline benzeterek, çok gergin de, çok gevşek de 
+olmayan optimal gerginlikteki telin en iyi sesi vereceği örneğiyle bu kavramı açıklamıştır. 
+ 
+8.4.4. Strese Dayanıklılığı Belirleyen Unsurlar :  Nörotik, prepsikotik veya antisosyal kişilik yapısı, 
+fiziksel zayıflık, sosyal -mental düşüklük, bilgisizlik ve eğitimsizlik gi bi unsurlar, stresle mücadeleyi 
+zorlaştırmaktadır. Strese dayanıklılıkta belirli şablon ve formüller yoksa da, stresler karşısında başarılı 
+olan kişilerin şu üç yeteneğe sahip oldukları bilinmektedir:  
+Coping (çaresini bulma); adaptasyon (uyum); yeterlilik. Strese maruz kalan insanın savunmasında 
+diğer şansları şunlar olabilir;  
+ 
+a) KiĢilik Yapısı : Zeki, dengeli, uyumlu, güvenli, hoşgörülü, yetenekli, becerikli ve bilgili kişiler strese 
+daha dayanıklıdırlar.  
+ 
+b) Stres çözüm Repertuarının GeniĢliği: Sık karşılaşılan, alışılan ve eğitimi yapılan durumlara çözüm 
+bulmak daha kolaydır.  
+ 
+ 
+ 
+THY A. O. UÇUġ EGĠTĠM AKADEMĠ MÜDÜRLÜĞÜ  
+EĞĠTĠM DÖKÜMANI 
+ 
+Doküman No ED.72.UEA.HHD 01 
+Revizyon Tarihi 24.04.2008 
+Sayfa No 41/44 
+ 
+ 
+THY KYS Form No: FR.18.0001 Rev.01 
+ 
+c) Ġhtiyaçların GiderilmiĢ OluĢu: Tatmin içindeki kişi rahattır. 
+ 
+d) Toplumsal Prestij Sahibi Olmak: Ekonomik  ve fiziksel yönden güçlü, kariyer ve ihtisas sahibi, 
+saygın insanl arın hem stressörlerle karşılaşma olasılığı görece az, hem de karşılaştığında alt etmesi 
+kolaydır. 
+ 
+e) Toplumsal Değer Yargılarının Toleranslı OluĢu: HoĢgörülü yasa ve geleneklerin geçerli olduğu 
+toplumlarda yaşamak bir şanstır. 
+ 
+f) Fiziksel Çevre KoĢullar ının Uygunluğu: Normal  ısı, ışık, basınç, nem, ses ve ekolojik ortamda 
+yaşamak, stresi azaltır. 
+ 
+g) Sosyal Çevrenin Uygunluğu: Güvenlikli, saygılı, sevgili, düzenli, uygar bir çevre stres unsurlarını 
+kaynağında kurutur. 
+ 
+h) Strese Yalnız BaĢına Maruz Kalmamak: Topluca maruz kalınan savaş, göç, afet gibi durumlara 
+daha iyi tahammül edilebilir.  
+ 
+i) Vücut Ġmmün Sisteminin Ġyi ÇalıĢması: Hastalıklara , acılara direnç kazandıran gizem dolu bir 
+kişisel avantajdır.  
+ 
+8.5. KARAR VERME'NĠN TANIMI : 
+Karar verme, elde ki tüm bilgilerin dikkate alınarak durumun kavranması, altematif eylem biçimleri ile 
+getirecekleri sonuçların gözden geçirilmesi ve uygun eylemin seçilerek uygulanmasıdır. 
+ 
+8.6. Karar Vermeyi GüçleĢtiren Etkenler : 
+Karar verme anında zorluk yaratan, pilotu n dikkatini ve performansını azaltan, sonuçta karar verme 
+yetisini bozan etkenlerden bazıları şunlardır :  
+ 
+a) Sınırlı zaman : Kritik durumlarda doğru bir karar bile geç alınmışsa, yanlış bir  karardan farkı yoktur, 
+ 
+b) Sınırlı bilgi: Acil karar verme durumunda bilgi akışı yetersizse yanlışa düşme olasılığı artar, 
+ 
+c) Sınırlı alternatifler: Pilot  emercensi uygulamaları sırasında uçağının dizayn ve yeteneklerini de 
+dikkate almak zorundadır. Örneğin; başka bir model uçakta, kolayca içinden çıkılabilecek bir d urum, bu 
+uçak için imkansız olabilir, 
+ 
+d) Olumsuz koĢullar: UçuĢ alet ve göstergelerinin bozukluğu, çevresel koşulların (meteoroloji, görüş, 
+meydan kolaylıkları vs.) olumsuzluğu, iletişim yetersizliği ve ekiptekilerin yanlışları, 
+ 
+e)Prosedürler: Uyulması zorunlu yönergeler, çeklistler ve kurum politikalarını, 
+ 
+f) Fizik ve fizyolojik problemler: Yorgunluk , uykusuzluk, açlık, susuzluk, ısı, nem, ışık, titreşim, 
+gürültü, oksijen gibi fiziksel ve fizyolojik unsurlar, 
+ 
+g) Psikolojik durum: Motivasyon düşüklüğü, stres, heyecan, panik, korku, önyargı, hırs, takıntı, yanlış 
+alışkanlık ve tutumlar ... 
+        
+ 
+ 
+ 
+ 
+ 
+THY A. O. UÇUġ EGĠTĠM AKADEMĠ MÜDÜRLÜĞÜ  
+EĞĠTĠM DÖKÜMANI 
+ 
+Doküman No ED.72.UEA.HHD 01 
+Revizyon Tarihi 24.04.2008 
+Sayfa No 42/44 
+ 
+ 
+THY KYS Form No: FR.18.0001 Rev.01 
+ 
+ 
+Tablo: 1.4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+THY A. O. UÇUġ EGĠTĠM AKADEMĠ MÜDÜRLÜĞÜ  
+EĞĠTĠM DÖKÜMANI 
+ 
+Doküman No ED.72.UEA.HHD 01 
+Revizyon Tarihi 24.04.2008 
+Sayfa No 43/44 
+ 
+ 
+THY KYS Form No: FR.18.0001 Rev.01 
+BÖLÜM 9 
+RĠSK YÖNETĠMĠ 
+ 
+9.1. Risk Yönetimi : 
+Risk yönetimi, daha etkin kararlar verebilmemiz için, riskin kontrolü ve tanımlanmasıdır. Riski yeniden 
+tahmin etmeye genel bir eğilim vardır çünkü en kötü senaryolar üzerinde odaklanmaya eğilimliyizdir. 
+Kararda aslında ne kadar riskin bulunduğunu tarif etmeliyiz. Uçucular olarak biz, bir görevin riskini 
+çabukça değerlendirmekten kaçınmalı ve risk seviyesinin kabul edilebilirliğine karar vererek, kabul 
+edilebilirse, yönetilip yönetilemeyeceğini düşünmeliyiz. Risk, şiddet, olasılık ve maruz kalma olmak üzere 
+üç faktörün kombinasyonudur.  
+ 
+a) Riskin ġiddeti: Kazanın muhtemel sonuç veya şiddetinin ne olacağını veya kararımız sonucu 
+oluşabilecek olayı iyice düşünmeliyiz. Şiddet, ölümün, yaralanmanın, zaman kaybının, teçhizat kaybının, 
+organizasyona karşı duyulan tedirginliğin, politik kapsamların, yanlış tanıtımın ve ilgili yönetimin 
+şartlarında ölçümlendirilir. 
+ 
+b ) Olasılık: Riskin açığa çıkarılması için verilen olasılık, sonucun bir kaza olması mıdır? Olayları belirli 
+bir görünüşte tutmalıyız fakat uygun eğitim, iyi bir durum değerlendirmesi, denetim ve sağlıklı bir tutum, 
+olasılığın azalmasına hatta yok edilmesine yardımcı olacaktır . 
+ 
+c ) Maruz Kalma: Toplam zaman, olayların sayısı, dâhil olan insan sayısı, dâhil olan toplam teçhizat ve 
+maruz kalma zamanındaki toplam aktivitedir. Olayların belli bir perspektifte  tutulmasıyla ve riske maruz 
+kalmaya etken olan muhtemel elementlerin indirgenmesiyle azaltılabilir. Riski başarıyla tarif etmenin 
+anahtarı, tehlike ve sonucun ne olabileceğinin dikkatlice tanımlanmasıdır. Zayıf tanımlamaya; belirlenmiş 
+uçuş seviyesini ihlal eden bir ekibin bundan dolayı memnuniyet duymamaları ile birlikte başka bir uçakla 
+çarpışmayı riske etmeleri ve huzuru bozmalarının incelenmesi, örnek gösterilebilir.  
+ 
+9.2. Karar Vermeyi GeliĢtiren Teknikler : 
+Kararlarımızın kalitesini geliştirmek için bir çok teknik hizmetlerimiz bulunmaktadır. 
+ 
+9.2.1. Ekibin Karar Verme Kalitesine Aksi Tesiri Olabilecek Faktörler 
+ 
+a) BenzemiĢe Uyma: Ekipteki  herkes gibi görünme isteği. Bu özellikle iki kişiden fazla ekipler için 
+geçerlidir ve kendi görüşlerini feda ederek grup kararına uymadır . 
+ 
+b) Boyun Eğme: Özellikle  daha önceki kişi ile aranızda uyumsuzluk varsa, bunun sonucunda 
+oluşabilecek boyun eğici, tavizkar karar verme.  
+ 
+c) Statü: Rütbe, kariyer veya statü ne kadar yükselirse başkalarının kararlarını etkileme olasılığı o kadar 
+artar. 
+ 
+d) Risk Aktarımı: Normal olarak risk alan bir pilot, risk alan başka bir pilotla uçarsa, sonuç olarak daha 
+büyük risklere açık olurlar (negatif sinerji).  
+ 
+e) Grup Beraberliği Süresi: Ekibin  birlikte çalışma süresinin uzatılmas ı, onların Standart Hareket 
+Usullerinden ayrılma eğilimi göstermelerini kolaylaştırır.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+THY A. O. UÇUġ EGĠTĠM AKADEMĠ MÜDÜRLÜĞÜ  
+EĞĠTĠM DÖKÜMANI 
+ 
+Doküman No ED.72.UEA.HHD 01 
+Revizyon Tarihi 24.04.2008 
+Sayfa No 44/44 
+ 
+ 
+THY KYS Form No: FR.18.0001 Rev.01 
+BÖLÜM 10 
+GERĠ ĠLETĠM 
+ 
+10.1. Geri Ġletim : 
+Geri iletim, mesaj veya kararımızın hedefine ulaştığını garanti eden bir metottur. Bunun için, geri iletimin 
+kuşkulu olduğunu gösteren ipuçlarından kaçınmalıyız. Ulaşmayan mesajlar veya kararımızın tam olarak 
+anlaşılmadığının yorumlandığı terimler gibi bizi uyarıcı bazı tipik cevaplar; 
+Sorularımızın cevaplarında, eğer böyle kelimeler ortaya çıkarsa, kararımızı aldığımız bil ginin tam olup 
+olmadığını sorgulayın. Durumu algılamamıza , el bir şeylerin olduğunun farkına varır varmaz, aktif olarak 
+bilgi isteme ihtiyacı duyarız. Kendi kendinize sorun: Kararımız yanlışsa? Neler olduğuna dair başka bir 
+açıklama var mı? Veya durumu açıklamamıza yardımcı olacak başka bilgi var mı? 
+ 
+10.1.2. Geri Ġletim Vermede Öneriler :  
+a)  Savunmacı bir cevabı tetikleyebilecek ''Sen'' kelimesini kullanmaktan kaçının. Alternatif olarak, bilgiyi 
+''Biz'' veya ''Uçak'' olarak aktarın.  
+ 
+b)   Geri iletim olumlu ise, çok olumlu bir performans göstererek ne kadar iyi yaptıklarını söyleyin. 
+ 
+c)   En etkin geri iletim, anlaşılırlık, kabul edilebilirlik ve uygulanabilirliktir.  
+ 
+d) Gerçeğe dayalı yolun hiçbir zaman problem olmadığını, ölçülü olarak irin fakat ya nlış mesajın 
+alınmasına neden olarak, istenmeyen sonuçlar elde edilmesinden kaçının. 
+ 
+e)  Mümkün olan her yerde, tartışma sonunda konu hakkında hemfikir olmayı isteyin. 
+ 
+f)  Unutmayınız ki, geri iletimin nihai hedefi, ilişkilerin korunması ile etkin bir sonuç elde etmektir. 
+ 
+ 
+ 
+ 
+ 
+ 

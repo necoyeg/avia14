@@ -9,10 +9,11 @@ API_KEY = os.getenv("OPENAI_API_KEY")
 
 def extract_text_from_pdf(pdf_path):
     try:
-        reader = PdfReader(pdf_path)
+        import fitz # PyMuPDF
+        doc = fitz.open(pdf_path)
         text = ""
-        for i, page in enumerate(reader.pages):
-            content = page.extract_text()
+        for i, page in enumerate(doc):
+            content = page.get_text()
             if content:
                 text += f"\n[PAGE {i+1}]\n{content}\n"
         return text
@@ -51,7 +52,7 @@ def generate_question_from_text(full_text):
     for i in range(1, len(parts), 2):
         page_num = int(parts[i])
         page_text = parts[i+1].strip()
-        if len(page_text) > 100: # Only consider pages with substantial text
+        if len(page_text) > 50: # Reduced threshold to capture more pages
             pages.append((page_num, page_text))
             
     if not pages:
